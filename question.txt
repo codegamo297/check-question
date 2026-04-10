@@ -1,0 +1,4667 @@
+HIỂU BIẾT CƠ BẢN VỀ CNTT
+Hành động nào sau đây góp phần bảo vệ môi trường khi sử dụng máy tính?
+{
+~ Luôn để máy tính bật 24/7.
+~ Vứt pin và linh kiện cũ vào thùng rác thông thường.
+~ In tất cả các tài liệu ra giấy.
+= Kích hoạt chế độ tiết kiệm điện (Power Saving) và tắt máy khi không sử dụng.
+}
+Một phần mềm được thiết kế để gây hại cho máy tính, đánh cắp dữ liệu hoặc phá hoại hệ thống được gọi chung là gì?
+{
+~ Adware
+~ Freeware
+~ Shareware
+= Malware (Phần mềm độc hại)
+}
+Loại phần mềm độc hại nào có khả năng tự nhân bản và lây lan qua mạng máy tính mà không cần sự tương tác của người dùng?
+{
+~ Trojan Horse
+~ Virus
+~ Spyware
+= Worm (Sâu máy tính)
+}
+Loại phần mềm độc hại nào ngụy trang thành một chương trình hợp pháp, hữu ích để lừa người dùng cài đặt?
+{
+~ Worm
+~ Virus
+~ Ransomware
+= Trojan Horse
+}
+Biện pháp nào sau đây là quan trọng nhất để phòng chống phần mềm độc hại?
+{
+~ Không bao giờ kết nối Internet.
+~ Chỉ sử dụng máy tính để chơi game.
+~ Tắt tường lửa của máy tính.
+= Cài đặt phần mềm diệt virus và cập nhật cơ sở dữ liệu thường xuyên.
+}
+Hành vi lừa đảo trực tuyến nhằm lấy cắp thông tin nhạy cảm (như mật khẩu, thông tin thẻ tín dụng) bằng cách giả mạo thành một đơn vị uy tín được gọi là gì?
+{
+~ Spam
+~ Spoofing
+~ Trolling
+= Phishing
+}
+Để tạo một mật khẩu mạnh, bạn nên làm gì?
+{
+~ Sử dụng ngày sinh hoặc tên của bạn.
+~ Sử dụng một từ đơn giản trong từ điển.
+~ Ghi mật khẩu ra giấy và dán lên màn hình.
+= Kết hợp chữ hoa, chữ thường, số và ký tự đặc biệt, có độ dài ít nhất 8 ký tự.
+}
+Một hệ thống an ninh mạng, có thể là phần cứng hoặc phần mềm, giúp giám sát và kiểm soát lưu lượng mạng ra vào dựa trên các quy tắc bảo mật được thiết lập sẵn, được gọi là gì?
+{
+~ Antivirus
+~ Switch
+~ Router
+= Firewall (Tường lửa)
+}
+Quyền của tác giả đối với tác phẩm do mình sáng tạo ra (ví dụ: phần mềm, sách, bài hát) được gọi là gì?
+{
+~ Bằng sáng chế (Patent)
+~ Nhãn hiệu (Trademark)
+~ Bí mật kinh doanh (Trade Secret)
+= Quyền tác giả (Copyright)
+}
+Phần mềm được cung cấp miễn phí để dùng thử trong một khoảng thời gian giới hạn hoặc với các tính năng bị hạn chế được gọi là gì?
+{
+~ Freeware
+~ Open Source
+~ Adware
+= Shareware
+}
+Phần mềm nào đi kèm với mã nguồn, cho phép người dùng xem, sửa đổi và phân phối lại?
+{
+~ Freeware
+~ Commercial Software
+~ Shareware
+= Open Source Software (Phần mềm nguồn mở)
+}
+Luật nào của Việt Nam quy định về các hoạt động trong không gian mạng, các biện pháp bảo vệ an ninh mạng?
+{
+~ Luật Giao dịch điện tử
+~ Luật Sở hữu trí tuệ
+~ Luật Công nghệ thông tin
+= Luật An ninh mạng
+}
+Thiết bị nào sau đây vừa là thiết bị đầu vào, vừa là thiết bị đầu ra?
+{
+~ Bàn phím
+~ Máy in
+~ Loa
+= Màn hình cảm ứng (Touchscreen)
+}
+Một Bit có thể biểu diễn được bao nhiêu giá trị?
+{
+~ 1
+~ 8
+~ 16
+= 2 (0 hoặc 1)
+}
+Trong kiến trúc máy tính, bộ phận nào thực hiện các phép tính số học (cộng, trừ, nhân, chia) và logic (AND, OR, NOT)?
+{
+~ Control Unit (Khối điều khiển)
+~ Registers (Thanh ghi)
+~ RAM (Bộ nhớ truy cập ngẫu nhiên)
+= ALU (Arithmetic Logic Unit - Khối số học và logic)
+}
+Thành phần nào được coi là "bộ não" của máy tính, chịu trách nhiệm thực thi các lệnh của chương trình?
+{
+~ RAM
+~ Ổ cứng
+~ Bo mạch chủ
+= CPU (Bộ xử lý trung tâm)
+}
+Giao diện người dùng đồ họa được viết tắt là gì?
+{
+~ CLI (Command-Line Interface)
+~ TUI (Text-based User Interface)
+~ VUI (Voice User Interface)
+= GUI (Graphical User Interface)
+}
+Thiết bị nào có chức năng chuyển đổi tín hiệu số từ máy tính thành tín hiệu analog để truyền qua đường dây điện thoại và ngược lại?
+{
+~ Router
+~ Switch
+~ Hub
+= Modem
+}
+Thiết bị nào có chức năng kết nối nhiều mạng máy tính với nhau và định tuyến các gói tin đến đúng đích?
+{
+~ Hub
+~ Switch
+~ Modem
+= Router
+}
+URL là viết tắt của cụm từ nào?
+{
+~ Uniform Resource Link
+~ Universal Resource Locator
+~ Uniform Resolution Link
+= Uniform Resource Locator
+}
+Hệ thống có chức năng phân giải tên miền (ví dụ: [www.google.com](https://www.google.com)) thành địa chỉ IP (ví dụ: 8.8.8.8) được gọi là gì?
+{
+~ HTTP (Hypertext Transfer Protocol)
+~ FTP (File Transfer Protocol)
+~ DHCP (Dynamic Host Configuration Protocol)
+= DNS (Domain Name System)
+}
+Chữ 'S' trong giao thức 'HTTPS' có nghĩa là gì?
+{
+~ Simple (Đơn giản)
+~ Standard (Tiêu chuẩn)
+~ Server (Máy chủ)
+= Secure (An toàn)
+}
+Một tệp văn bản nhỏ mà các trang web lưu trữ trên máy tính của bạn để ghi nhớ thông tin về bạn được gọi là gì?
+{
+~ Cache
+~ Virus
+~ Spam
+= Cookie
+}
+Dịch vụ lưu trữ và cho phép truy cập dữ liệu của bạn từ xa thông qua Internet được gọi là gì?
+{
+~ Lưu trữ cục bộ (Local Storage)
+~ Lưu trữ ngoài (External Storage)
+~ Lưu trữ mạng (Network Storage)
+= Lưu trữ đám mây (Cloud Storage)
+}
+Phần mềm nào sau đây KHÔNG phải là một dịch vụ lưu trữ đám mây?
+{
+~ Google Drive
+~ Dropbox
+~ Microsoft OneDrive
+= Microsoft PowerPoint
+}
+Hành vi sử dụng công nghệ số để quấy rối, đe dọa hoặc làm bẽ mặt người khác một cách có chủ ý và lặp đi lặp lại được gọi là gì?
+{
+~ Phishing
+~ Hacking
+~ Spamming
+= Cyberbullying (Bắt nạt qua mạng)
+}
+Dấu vết dữ liệu bạn để lại khi sử dụng Internet được gọi là gì?
+{
+~ Dấu chân carbon (Carbon footprint)
+~ Dấu vân tay (Fingerprint)
+~ Dấu hiệu số (Digital sign)
+= Dấu chân số (Digital footprint)
+}
+Việc thực hiện các giao dịch ngân hàng như chuyển tiền, thanh toán hóa đơn qua Internet được gọi là gì?
+{
+~ E-commerce
+~ E-learning
+~ Social media
+= E-banking (Ngân hàng điện tử)
+}
+Biện pháp bảo mật nào yêu cầu bạn cung cấp hai yếu tố xác thực khác nhau để chứng minh danh tính?
+{
+~ Mật khẩu dùng một lần (One-Time Password)
+~ Tường lửa (Firewall)
+~ Mã hóa (Encryption)
+= Xác thực hai yếu tố (Two-Factor Authentication)
+}
+Loại phần mềm độc hại nào chuyên mã hóa dữ liệu của nạn nhân và đòi tiền chuộc để giải mã?
+{
+~ Spyware
+~ Adware
+~ Worm
+= Ransomware
+}
+Loại phần mềm độc hại nào bí mật thu thập thông tin từ máy tính của người dùng mà họ không hề hay biết?
+{
+~ Adware
+~ Ransomware
+~ Trojan Horse
+= Spyware (Phần mềm gián điệp)
+}
+Việc làm nào sau đây KHÔNG được khuyến khích khi thực hiện giao dịch trực tuyến?
+{
+~ Kiểm tra xem trang web có sử dụng HTTPS không.
+~ Sử dụng mật khẩu mạnh cho tài khoản của bạn.
+~ Đọc các điều khoản và điều kiện.
+= Thực hiện giao dịch bằng mạng Wi-Fi công cộng không có mật khẩu.
+}
+Trong các loại giấy phép phần mềm, loại nào cho phép người dùng sử dụng phần mềm miễn phí mà không có giới hạn?
+{
+~ Shareware
+~ Commercial
+~ Trial Version
+= Freeware (Phần mềm miễn phí)
+}
+Việc sao chép, sử dụng tác phẩm, ý tưởng của người khác mà không ghi nhận nguồn gốc hoặc tác giả được gọi là gì?
+{
+~ Bản quyền (Copyright)
+~ Trích dẫn (Citation)
+~ Sở hữu trí tuệ (Intellectual Property)
+= Đạo văn (Plagiarism)
+}
+Thành phần nào của máy tính có nhiệm vụ cung cấp nguồn điện cho các linh kiện khác hoạt động?
+{
+~ CPU
+~ RAM
+~ Mainboard
+= PSU (Power Supply Unit - Bộ nguồn)
+}
+Bộ nhớ đệm tốc độ cao, nằm giữa CPU và RAM, dùng để lưu trữ các dữ liệu được truy cập thường xuyên được gọi là gì?
+{
+~ ROM
+~ SSD
+~ Register
+= Cache
+}
+Công nghệ nào cho phép hệ điều hành tự động nhận diện và cấu hình một thiết bị phần cứng mới được kết nối vào máy tính?
+{
+~ BIOS
+~ Overclocking
+~ Hyper-Threading
+= Plug and Play (Cắm và Chạy)
+}
+Phần mềm nhỏ, được tích hợp vĩnh viễn vào một thiết bị phần cứng để điều khiển các chức năng cơ bản của thiết bị đó được gọi là gì?
+{
+~ Driver
+~ Operating System
+~ Application
+= Firmware
+}
+Trong mô hình mạng Client-Server (Khách-Chủ), vai trò của Server là gì?
+{
+~ Yêu cầu tài nguyên từ các máy khác.
+~ Chỉ để lưu trữ dữ liệu cá nhân.
+~ Hoạt động độc lập và không kết nối mạng.
+= Cung cấp tài nguyên và dịch vụ cho các máy khách (Client).
+}
+Một mạng máy tính trong đó các máy tính có vai trò ngang hàng, vừa có thể là máy khách vừa có thể là máy chủ, được gọi là gì?
+{
+~ Mạng Client-Server
+~ Mạng WAN
+~ Mạng MAN
+= Mạng Peer-to-Peer (P2P - Mạng ngang hàng)
+}
+Địa chỉ duy nhất được gán cho mỗi thiết bị khi tham gia vào mạng máy tính sử dụng giao thức Internet được gọi là gì?
+{
+~ Địa chỉ MAC
+~ Địa chỉ nhà
+~ Tên miền
+= Địa chỉ IP
+}
+Công nghệ cho phép thực hiện các cuộc gọi điện thoại qua kết nối Internet được gọi là gì?
+{
+~ SMS
+~ MMS
+~ GPRS
+= VoIP (Voice over IP)
+}
+"Vạn vật kết nối" là tên gọi tiếng Việt của thuật ngữ nào?
+{
+~ AI (Artificial Intelligence)
+~ Big Data
+~ Cloud Computing
+= IoT (Internet of Things)
+}
+Lĩnh vực khoa học máy tính nghiên cứu về việc tạo ra các máy móc thông minh có khả năng thực hiện các nhiệm vụ giống con người được gọi là gì?
+{
+~ Internet of Things
+~ Blockchain
+~ Data Mining
+= Artificial Intelligence (AI - Trí tuệ nhân tạo)
+}
+Việc lưu một bản sao của dữ liệu ở một nơi khác để phòng trường hợp dữ liệu gốc bị mất hoặc hỏng được gọi là gì?
+{
+~ Đồng bộ hóa (Synchronization)
+~ Nén (Compression)
+~ Mã hóa (Encryption)
+= Sao lưu (Backup)
+}
+Trong email, thư mục nào thường chứa các thư không mong muốn, thư quảng cáo hàng loạt?
+{
+~ Inbox (Hộp thư đến)
+~ Sent (Đã gửi)
+~ Drafts (Thư nháp)
+= Spam (Thư rác)
+}
+Phần mềm nào giúp bạn tạo, chỉnh sửa và quản lý các bảng tính?
+{
+~ Microsoft Word
+~ Microsoft PowerPoint
+~ Adobe Photoshop
+= Microsoft Excel
+}
+Phần mềm nào được thiết kế chuyên dụng để tạo các bài trình chiếu?
+{
+~ Mozilla Firefox
+~ Windows Media Player
+~ Notepad
+= Microsoft PowerPoint
+}
+"Trình duyệt web" (Web browser) là gì?
+{
+~ Một phần mềm để gửi và nhận email.
+~ Một phần mềm để chỉnh sửa ảnh.
+~ Một công cụ tìm kiếm trên Internet.
+= Một phần mềm ứng dụng để truy cập và hiển thị các trang web trên World Wide Web.
+}
+Tên miền cấp cao nhất (Top-Level Domain) ".gov" thường được sử dụng cho các tổ chức nào?
+{
+~ Tổ chức giáo dục
+~ Tổ chức thương mại
+~ Tổ chức phi lợi nhuận
+= Tổ chức chính phủ
+}
+Khi bạn xóa một tệp tin trên Windows, nó thường được chuyển đến đâu trước khi bị xóa vĩnh viễn?
+{
+~ My Documents
+~ Control Panel
+~ Desktop
+= Recycle Bin (Thùng rác)
+}
+Tổ hợp phím nào thường được sử dụng để sao chép (Copy) một đối tượng đã chọn?
+{
+~ Ctrl + V
+~ Ctrl + X
+~ Ctrl + Z
+= Ctrl + C
+}
+Tổ hợp phím nào thường được sử dụng để dán (Paste) một đối tượng đã được sao chép?
+{
+~ Ctrl + C
+~ Ctrl + X
+~ Ctrl + A
+= Ctrl + V
+}
+Tổ hợp phím nào thường được sử dụng để cắt (Cut) một đối tượng đã chọn?
+{
+~ Ctrl + C
+~ Ctrl + V
+~ Ctrl + S
+= Ctrl + X
+}
+Để lưu (Save) một tài liệu, bạn thường sử dụng tổ hợp phím nào?
+{
+~ Ctrl + O
+~ Ctrl + P
+~ Ctrl + N
+= Ctrl + S
+}
+Để chọn tất cả nội dung trong một văn bản hoặc cửa sổ, bạn sử dụng tổ hợp phím nào?
+{
+~ Ctrl + C
+~ Ctrl + F
+~ Ctrl + V
+= Ctrl + A
+}
+Chương trình điều khiển, là một phần mềm nhỏ cho phép hệ điều hành giao tiếp với một thiết bị phần cứng, được gọi là gì?
+{
+~ BIOS
+~ Firmware
+~ Compiler
+= Driver
+}
+Sự khác biệt chính về hiệu năng giữa ổ cứng SSD và HDD là gì?
+{
+~ SSD có dung lượng lớn hơn.
+~ SSD rẻ hơn.
+~ SSD bền hơn về mặt lưu trữ lâu dài không cần nguồn điện.
+= SSD có tốc độ đọc/ghi dữ liệu nhanh hơn nhiều so với HDD.
+}
+Trong mạng máy tính, "băng thông" (bandwidth) đề cập đến điều gì?
+{
+~ Thời gian tín hiệu đi từ điểm A đến điểm B.
+~ Số lượng thiết bị kết nối vào mạng.
+~ Độ trễ của mạng.
+= Lượng dữ liệu tối đa có thể được truyền qua một kết nối mạng trong một khoảng thời gian nhất định.
+}
+HDMI là viết tắt của cụm từ nào?
+{
+~ High-Definition Media Interface
+~ High-Definition Multimedia Integration
+~ Hypertext Multimedia Interface
+= High-Definition Multimedia Interface
+}
+Tập hợp các quy tắc và tiêu chuẩn để các máy tính có thể giao tiếp với nhau trên mạng được gọi là gì?
+{
+~ Thuật toán (Algorithm)
+~ Ngôn ngữ lập trình (Programming Language)
+~ Cấu trúc dữ liệu (Data Structure)
+= Giao thức (Protocol)
+}
+Giao thức nào là giao thức nền tảng của World Wide Web, dùng để truyền tải các trang web?
+{
+~ FTP (File Transfer Protocol)
+~ SMTP (Simple Mail Transfer Protocol)
+~ POP3 (Post Office Protocol 3)
+= HTTP (Hypertext Transfer Protocol)
+}
+Loại phần mềm nào tự động hiển thị các quảng cáo không mong muốn cho người dùng?
+{
+~ Spyware
+~ Ransomware
+~ Freeware
+= Adware
+}
+Khoảng cách kỹ thuật số (Digital Divide) là thuật ngữ để chỉ điều gì?
+{
+~ Khoảng cách vật lý giữa các máy tính trong một mạng.
+~ Sự khác biệt về phiên bản phần mềm giữa các máy tính.
+~ Khoảng cách giữa dữ liệu analog và dữ liệu số.
+= Khoảng cách về khả năng tiếp cận và sử dụng công nghệ thông tin giữa các nhóm dân cư khác nhau.
+}
+Để tránh mỏi lưng khi ngồi làm việc với máy tính, bạn nên làm gì?
+{
+~ Ngồi trên ghế không có tựa lưng.
+~ Ngồi vắt chéo chân.
+~ Cúi gập người về phía trước.
+= Ngồi thẳng lưng, có ghế hỗ trợ và chân đặt phẳng trên sàn.
+}
+Làm thế nào để xử lý một email đáng ngờ yêu cầu bạn cung cấp thông tin cá nhân?
+{
+~ Trả lời ngay lập tức với các thông tin được yêu cầu.
+~ Nhấp vào tất cả các liên kết để kiểm tra.
+~ Chuyển tiếp cho tất cả bạn bè để cảnh báo.
+= Xóa email đó đi và không nhấp vào bất kỳ liên kết nào.
+}
+Định dạng tệp nào sau đây thường được sử dụng cho hình ảnh có hỗ trợ nền trong suốt?
+{
+~ .JPG
+~ .BMP
+~ .GIF
+= .PNG
+}
+Định dạng tệp nào thường được sử dụng để nén nhiều tệp và thư mục thành một tệp duy nhất?
+{
+~ .EXE
+~ .DOCX
+~ .PDF
+= .ZIP
+}
+"Điện toán đám mây" (Cloud Computing) là gì?
+{
+~ Một kỹ thuật dự báo thời tiết bằng siêu máy tính.
+~ Một mạng lưới các máy tính cá nhân.
+~ Một loại phần mềm lưu trữ ảnh.
+= Một mô hình cung cấp các tài nguyên máy tính (máy chủ, lưu trữ, phần mềm) qua Internet.
+}
+Đặc điểm nào sau đây KHÔNG phải là ưu điểm của điện toán đám mây?
+{
+~ Truy cập dữ liệu từ bất cứ đâu có Internet.
+~ Giảm chi phí đầu tư cơ sở hạ tầng ban đầu.
+~ Dễ dàng mở rộng hoặc thu hẹp quy mô sử dụng.
+= Luôn yêu cầu kết nối Internet tốc độ rất cao để hoạt động.
+}
+Máy tính lớn (Mainframe computer) thường được sử dụng cho mục đích gì?
+{
+~ Chơi game.
+~ Công việc văn phòng cá nhân.
+~ Lướt web và giải trí.
+= Xử lý một lượng lớn giao dịch và dữ liệu cho các tổ chức lớn như ngân hàng, hãng hàng không.
+}
+Tốc độ quay của đĩa từ trong ổ cứng HDD được đo bằng đơn vị nào?
+{
+~ MHz (Megahertz)
+~ GB/s (Gigabytes per second)
+~ MB (Megabytes)
+= rpm (revolutions per minute - vòng/phút)
+}
+Thiết bị nào sau đây dùng để đưa dữ liệu dạng văn bản và hình ảnh từ giấy vào máy tính?
+{
+~ Máy in (Printer)
+~ Máy chiếu (Projector)
+~ Loa (Speaker)
+= Máy quét (Scanner)
+}
+Hành động nào sau đây là vi phạm bản quyền phần mềm?
+{
+~ Mua một bản sao hợp pháp của phần mềm.
+~ Cài đặt phần mềm trên số lượng máy tính được giấy phép cho phép.
+~ Gỡ cài đặt phần mềm khi không còn sử dụng.
+= Tải xuống một bản sao phần mềm thương mại từ một trang web chia sẻ bất hợp pháp.
+}
+Vì sao cần phải cập nhật hệ điều hành và các phần mềm một cách thường xuyên?
+{
+~ Để làm máy tính chạy chậm lại.
+~ Để thay đổi giao diện cho mới mẻ.
+~ Để tốn dung lượng ổ cứng hơn.
+= Để vá các lỗ hổng bảo mật và nhận các tính năng mới, cải tiến hiệu suất.
+}
+Trong bối cảnh an ninh mạng, "kỹ thuật xã hội" (social engineering) là gì?
+{
+~ Một kỹ thuật lập trình phần mềm xã hội.
+~ Một phương pháp thiết kế mạng xã hội.
+~ Một công cụ để phân tích dữ liệu xã hội.
+= Một hình thức tấn công phi kỹ thuật, lợi dụng tâm lý con người để lừa họ tiết lộ thông tin.
+}
+Trong mô hình màu RGB (Đỏ, Lục, Lam), việc trộn cả ba màu với cường độ tối đa sẽ tạo ra màu gì?
+{
+~ Màu đen
+~ Màu xám
+~ Màu xanh lơ
+= Màu trắng
+}
+Độ phân giải của màn hình được đo bằng gì?
+{
+~ Inch
+~ Hertz (Hz)
+~ Candela (cd/m²)
+= Pixel (số điểm ảnh theo chiều rộng x chiều cao)
+}
+Khi một trang web yêu cầu quyền truy cập vào vị trí của bạn, bạn nên làm gì?
+{
+~ Luôn luôn đồng ý để có trải nghiệm tốt nhất.
+~ Luôn luôn từ chối vì lý do bảo mật.
+~ Tắt trình duyệt ngay lập tức.
+= Cân nhắc xem trang web đó có thực sự cần thông tin vị trí để hoạt động không và chỉ cho phép khi cần thiết.
+}
+Loại cổng kết nối nào thường được sử dụng cho chuột và bàn phím có dây hiện nay?
+{
+~ Cổng PS/2
+~ Cổng song song (Parallel Port)
+~ Cổng nối tiếp (Serial Port)
+= Cổng USB
+}
+Thiết bị nào có chức năng chính là xử lý và xuất tín hiệu hình ảnh ra màn hình?
+{
+~ Card âm thanh (Sound Card)
+~ Card mạng (Network Card)
+~ Bo mạch chủ (Motherboard)
+= Card đồ họa (Video Card/Graphics Card)
+}
+Lỗ hổng bảo mật được phát hiện và bị khai thác bởi tin tặc trước cả khi nhà phát triển phần mềm biết về nó được gọi là gì?
+{
+~ Lỗ hổng phiên bản beta
+~ Lỗ hổng đã được vá
+~ Lỗ hổng kịch bản chéo trang (XSS)
+= Lỗ hổng ngày zero (Zero-day vulnerability)
+}
+Một mạng lưới các máy tính bị nhiễm phần mềm độc hại và bị điều khiển bởi một kẻ tấn công từ xa được gọi là gì?
+{
+~ Mạng LAN
+~ Mạng WAN
+~ Mạng P2P
+= Mạng Botnet
+}
+Trong các lựa chọn sau, đâu là một ví dụ về phần mềm mã nguồn mở?
+{
+~ Microsoft Office
+~ Adobe Photoshop
+~ Windows 11
+= Hệ điều hành Linux
+}
+Hành vi nào thể hiện ý thức của một công dân số có trách nhiệm?
+{
+~ Chia sẻ tin giả, tin chưa kiểm chứng.
+~ Tham gia bắt nạt, chế giễu người khác trên mạng.
+~ Sử dụng phần mềm lậu, không có bản quyền.
+= Tôn trọng quyền riêng tư và sở hữu trí tuệ của người khác.
+}
+Mục đích chính của việc nén tệp tin (file compression) là gì?
+{
+~ Tăng chất lượng của tệp tin.
+~ Tăng tính bảo mật cho tệp tin.
+~ Thay đổi định dạng của tệp tin.
+= Giảm kích thước của tệp tin để lưu trữ và truyền đi dễ dàng hơn.
+}
+Tùy chọn nào sau đây KHÔNG phải là một hệ điều hành cho điện thoại thông minh?
+{
+~ Android
+~ iOS
+~ HarmonyOS
+= Firefox OS
+}
+"Trí tuệ nhân tạo hẹp" (Narrow AI) là gì?
+{
+~ Một AI có ý thức và trí tuệ vượt qua con người.
+~ Một AI có thể thực hiện mọi nhiệm vụ trí tuệ mà con người có thể làm.
+~ Một lý thuyết AI đã lỗi thời.
+= Một AI được thiết kế và huấn luyện để thực hiện một nhiệm vụ cụ thể.
+}
+Tại sao không nên sử dụng cùng một mật khẩu cho nhiều tài khoản trực tuyến?
+{
+~ Vì rất khó để nhớ.
+~ Vì các trang web không cho phép.
+~ Vì nó làm chậm quá trình đăng nhập.
+= Vì nếu một tài khoản bị lộ thông tin, tất cả các tài khoản khác cũng sẽ gặp nguy hiểm.
+}
+Thiết bị nào sau đây đọc các vạch sọc đen trắng để xác định thông tin sản phẩm?
+{
+~ Máy quét khuôn mặt
+~ Máy quét vân tay
+~ Máy quét tài liệu
+= Máy quét mã vạch
+}
+Thư mục nào trong hệ điều hành Windows thường chứa các tệp chương trình đã được cài đặt?
+{
+~ C:\Windows
+~ C:\Users
+~ C:\Documents
+= C:\Program Files
+}
+Loại bộ nhớ nào có tốc độ truy xuất nhanh nhất trong máy tính?
+{
+~ SSD
+~ RAM
+~ Cache
+= Thanh ghi (Register)
+}
+Phần mở rộng tệp ".exe" thường cho biết loại tệp gì?
+{
+~ Tệp văn bản
+~ Tệp hình ảnh
+~ Tệp âm thanh
+= Tệp chương trình thực thi
+}
+Khi một phần mềm bị "treo" (không phản hồi), tổ hợp phím nào trên Windows thường được dùng để mở Task Manager và tắt ứng dụng đó?
+{
+~ Alt + F4
+~ Ctrl + Tab
+~ Windows + L
+= Ctrl + Alt + Delete
+}
+"Giao diện dòng lệnh" (Command-Line Interface - CLI) yêu cầu người dùng tương tác với máy tính bằng cách nào?
+{
+~ Nhấp vào các biểu tượng và menu.
+~ Sử dụng giọng nói.
+~ Chạm vào màn hình.
+= Gõ các lệnh văn bản.
+}
+Mạng riêng ảo (Virtual Private Network) được sử dụng để làm gì?
+{
+~ Tăng tốc độ kết nối Internet của bạn lên gấp đôi.
+~ Cung cấp kết nối Internet miễn phí.
+~ Bảo vệ máy tính khỏi virus.
+= Tạo một kết nối an toàn, được mã hóa qua một mạng công cộng như Internet.
+}
+Định dạng tệp PDF là viết tắt của cụm từ nào?
+{
+~ Personal Document Format
+~ Printable Document Format
+~ Public Document Format
+= Portable Document Format
+}
+Mã phản hồi nhanh (Quick Response code), thường có dạng ô vuông chứa các chấm đen, được gọi là gì?
+{
+~ Barcode (Mã vạch)
+~ Watermark (Hình mờ)
+~ Password (Mật khẩu)
+= QR Code
+}
+Khi sao lưu dữ liệu, chiến lược "3-2-1" có nghĩa là gì?
+{
+~ 3 ngày sao lưu 2 lần vào 1 nơi.
+~ Sao lưu thành 3 định dạng, 2 phiên bản, 1 lần mỗi tuần.
+~ Sao lưu 3 thư mục quan trọng nhất, 2 lần một ngày, vào 1 thiết bị.
+= Giữ ít nhất 3 bản sao dữ liệu, trên 2 loại phương tiện lưu trữ khác nhau, với 1 bản sao ở ngoài địa điểm chính.
+}
+Để bảo vệ tư thế, khoảng cách từ mắt đến màn hình máy tính nên là bao nhiêu?
+{
+~ 10 - 20 cm
+~ 30 - 40 cm
+~ Trên 1 mét
+= 50 - 70 cm (khoảng một sải tay)
+}
+ 
+SỬ DỤNG MÁY TÍNH CƠ BẢN
+Thiết bị nào sau đây dùng để lưu trữ dữ liệu lâu dài ngay cả khi đã tắt máy?
+{
+~ RAM
+~ Cache
+~ CPU
+= Ổ đĩa cứng (HDD/SSD)
+}
+Tổ hợp phím Windows + D có chức năng gì?
+{
+~ Mở File Explorer
+~ Khóa màn hình
+~ Mở Action Center
+= Hiển thị hoặc ẩn màn hình Desktop
+}
+Chức năng của "Recycle Bin" là gì?
+{
+~ Nén các tệp tin để giảm dung lượng
+~ Quét virus cho máy tính
+~ Tăng tốc độ xử lý của máy tính
+= Chứa các tệp và thư mục đã bị xóa tạm thời
+}
+Để giải nén một tệp tin có định dạng .zip, bạn thường làm gì?
+{
+~ Nhấn đúp chuột vào tệp tin
+~ Đổi tên tệp tin thành .txt
+~ Xóa tệp tin
+= Nhấn chuột phải vào tệp tin và chọn "Extract All..." hoặc "Giải nén..."
+}
+Trong File Explorer, chế độ xem nào cho phép bạn thấy hình ảnh thu nhỏ của các tệp hình ảnh?
+{
+~ List
+~ Details
+~ Small icons
+= Large icons hoặc Tiles
+}
+Tổ hợp phím Alt + Tab dùng để làm gì?
+{
+~ Đóng cửa sổ hiện tại
+~ Mở menu Start
+~ Chụp ảnh màn hình
+= Chuyển đổi qua lại giữa các cửa sổ ứng dụng đang mở
+}
+Đâu là một ví dụ về phần mềm ứng dụng?
+{
+~ Windows 10
+~ macOS
+~ Linux
+= Microsoft Excel
+}
+Để gỡ bỏ một phần mềm đã cài đặt trên Windows, phương pháp đúng đắn nhất là gì?
+{
+~ Xóa thư mục cài đặt của phần mềm đó trong Program Files
+~ Xóa shortcut của phần mềm trên Desktop
+~ Sử dụng Task Manager để kết thúc tiến trình của nó
+= Sử dụng tính năng "Apps & features" (hoặc "Programs and Features" trong Control Panel)
+}
+"Firewall" (Tường lửa) trong máy tính có vai trò gì?
+{
+~ Ngăn chặn bụi bẩn xâm nhập vào phần cứng
+~ Tăng tốc độ kết nối Internet
+~ Quản lý các tệp tin hệ thống
+= Ngăn chặn truy cập trái phép vào hoặc ra khỏi một mạng máy tính
+}
+Tổ hợp phím Windows + L dùng để làm gì?
+{
+~ Mở cài đặt (Settings)
+~ Mở trình duyệt web
+~ Đăng xuất (Log off)
+= Khóa màn hình (Lock)
+}
+Để xem các thông tin chi tiết của một tệp tin như ngày tạo, kích thước, bạn cần làm gì?
+{
+~ Nhấn đúp chuột vào tệp tin
+~ Kéo và thả tệp tin vào Recycle Bin
+~ Đổi tên tệp tin
+= Nhấn chuột phải vào tệp tin và chọn Properties
+}
+Hệ điều hành là gì?
+{
+~ Một loại phần cứng máy tính
+~ Một ứng dụng soạn thảo văn bản
+~ Một trình duyệt web
+= Phần mềm nền tảng quản lý tất cả phần cứng và phần mềm trên máy tính
+}
+Thiết bị nào sau đây là thiết bị xuất (output device)?
+{
+~ Bàn phím (Keyboard)
+~ Webcam
+~ Microphone
+= Máy in (Printer)
+}
+Tổ hợp phím Ctrl + Z thường được sử dụng để làm gì?
+{
+~ Lưu tài liệu
+~ In tài liệu
+~ Xóa một ký tự
+= Hoàn tác (Undo) thao tác vừa thực hiện
+}
+Để tạo một lối tắt (shortcut) cho một ứng dụng trên Desktop, bạn làm thế nào?
+{
+~ Sao chép tệp .exe của ứng dụng ra Desktop
+~ Di chuyển tệp .exe của ứng dụng ra Desktop
+~ Đổi tên tệp .exe
+= Nhấn chuột phải vào tệp .exe của ứng dụng, chọn Send to > Desktop (create shortcut)
+}
+Bit là viết tắt của từ gì?
+{
+~ Big Unit
+~ Basic Item
+~ Boolean Digit
+= Binary Digit
+}
+Để khởi động lại máy tính, bạn chọn lệnh nào trong menu Power?
+{
+~ Shut down
+~ Sleep
+~ Hibernate
+= Restart
+}
+Phần mềm dùng để đọc các tệp tin định dạng PDF phổ biến là gì?
+{
+~ WinRAR
+~ Notepad
+~ Microsoft Paint
+= Adobe Acrobat Reader
+}
+Trong File Explorer, để di chuyển (cut) một tệp tin, bạn sử dụng tổ hợp phím nào?
+{
+~ Ctrl + C
+~ Ctrl + V
+~ Ctrl + A
+= Ctrl + X
+}
+Màn hình cảm ứng (Touchscreen) là loại thiết bị gì?
+{
+~ Chỉ là thiết bị nhập
+~ Chỉ là thiết bị xuất
+~ Chỉ là thiết bị lưu trữ
+= Vừa là thiết bị nhập, vừa là thiết bị xuất
+}
+Chức năng của "Snipping Tool" hoặc "Snip & Sketch" trong Windows là gì?
+{
+~ Vẽ đồ thị
+~ Soạn thảo code
+~ Quản lý email
+= Chụp ảnh một phần hoặc toàn bộ màn hình
+}
+Đâu là một ví dụ về một thiết bị lưu trữ di động?
+{
+~ CPU
+~ RAM
+~ Mainboard
+= Ổ USB Flash Drive
+}
+Tổ hợp phím Windows + E có chức năng gì?
+{
+~ Mở Microsoft Edge
+~ Mở menu Start
+~ Khóa máy tính
+= Mở File Explorer
+}
+Trong hệ điều hành Windows, đâu là nơi chứa các cài đặt và tùy chọn cho hệ thống?
+{
+~ This PC
+~ Recycle Bin
+~ File Explorer
+= Control Panel / Settings
+}
+Để thay đổi âm lượng của hệ thống, bạn thường nhấn vào biểu tượng nào trên thanh tác vụ?
+{
+~ Biểu tượng mạng (Network)
+~ Biểu tượng pin (Battery)
+~ Biểu tượng thông báo (Notifications)
+= Biểu tượng loa (Speaker)
+}
+Một Byte tương đương với bao nhiêu Bit?
+{
+~ 2 Bits
+~ 4 Bits
+~ 16 Bits
+= 8 Bits
+}
+Hành động "double-click" (nhấn đúp chuột) thường được dùng để làm gì?
+{
+~ Hiển thị menu ngữ cảnh
+~ Kéo và thả một đối tượng
+~ Chọn một đối tượng
+= Mở một tệp tin hoặc khởi chạy một ứng dụng
+}
+Phần mềm nào không phải là một hệ điều hành?
+{
+~ Android
+~ iOS
+~ Linux
+= Google Chrome
+}
+Để xem danh sách các máy in đã được cài đặt, bạn vào đâu trong Control Panel?
+{
+~ System and Security
+~ Network and Internet
+~ Programs
+= Hardware and Sound > Devices and Printers
+}
+Tổ hợp phím Ctrl + F thường được sử dụng để làm gì trong nhiều ứng dụng?
+{
+~ Tạo một tệp mới (New File)
+~ Định dạng văn bản (Format)
+~ Lưu tệp (Save File)
+= Tìm kiếm (Find)
+}
+"GUI" là viết tắt của thuật ngữ nào?
+{
+~ General User Input
+~ Global Unique Identifier
+~ Game User Interface
+= Graphical User Interface
+}
+Khi bạn định dạng (format) một ổ đĩa USB, điều gì sẽ xảy ra với dữ liệu trên đó?
+{
+~ Dữ liệu được nén lại
+~ Dữ liệu được mã hóa
+~ Dữ liệu được sao lưu lên đám mây
+= Toàn bộ dữ liệu sẽ bị xóa
+}
+Để kết nối vào mạng không dây (Wi-Fi), bạn cần chọn biểu tượng nào trên thanh tác vụ?
+{
+~ Biểu tượng loa
+~ Biểu tượng pin
+~ Biểu tượng ngày giờ
+= Biểu tượng mạng (thường là hình cột sóng hoặc quả địa cầu)
+}
+Tên gọi khác của thư mục trong hệ điều hành máy tính là gì?
+{
+~ File
+~ Icon
+~ Shortcut
+= Folder
+}
+Tổ hợp phím nào dùng để đóng cửa sổ ứng dụng hiện tại?
+{
+~ Ctrl + W
+~ Ctrl + Q
+~ Shift + F4
+= Alt + F4
+}
+Thiết bị nào chuyển đổi tín hiệu số từ máy tính thành hình ảnh hiển thị trên màn hình?
+{
+~ Sound Card
+~ Network Card
+~ RAM
+= Graphics Card (Card đồ họa)
+}
+Chức năng "Hibernate" (Ngủ đông) khác với "Sleep" (Ngủ) ở điểm nào?
+{
+~ Hibernate tắt máy nhanh hơn
+~ Hibernate tiêu thụ nhiều điện hơn
+~ Hibernate không lưu lại trạng thái làm việc
+= Hibernate lưu trạng thái làm việc vào ổ cứng và tắt nguồn hoàn toàn
+}
+Đuôi tệp ".jpg" hoặc ".jpeg" thường chỉ loại tệp nào?
+{
+~ Tệp âm thanh
+~ Tệp video
+~ Tệp văn bản
+= Tệp hình ảnh
+}
+Để khôi phục một tệp tin từ Recycle Bin, bạn làm gì?
+{
+~ Kéo tệp tin đó ra Desktop
+~ Nhấn chuột phải vào tệp tin và chọn Delete
+~ Nhấn đúp chuột vào tệp tin
+= Mở Recycle Bin, nhấn chuột phải vào tệp tin và chọn Restore
+}
+Trong cấu trúc cây thư mục, thư mục nằm bên trong một thư mục khác được gọi là gì?
+{
+~ Thư mục gốc (Root directory)
+~ Thư mục cha (Parent directory)
+~ Thư mục ngang hàng (Sibling directory)
+= Thư mục con (Subfolder/Subdirectory)
+}
+Tổ hợp phím Windows + R dùng để làm gì?
+{
+~ Đổi tên tệp
+~ Mở cài đặt hiển thị
+~ Khởi động lại máy
+= Mở hộp thoại Run
+}
+"Phần mềm độc hại" (Malware) là thuật ngữ chung chỉ điều gì?
+{
+~ Các phần mềm miễn phí
+~ Các phần mềm có dung lượng lớn
+~ Các phần mềm chưa được đăng ký bản quyền
+= Các phần mềm được thiết kế để gây hại hoặc xâm nhập máy tính
+}
+Để chọn nhiều tệp tin hoặc thư mục không liền kề nhau trong File Explorer, bạn giữ phím nào trong khi nhấn chuột?
+{
+~ Shift
+~ Alt
+~ Tab
+= Ctrl
+}
+Để thay đổi ngày và giờ của hệ thống, bạn cần vào đâu?
+{
+~ Personalization
+~ System
+~ Phone
+= Time & Language
+}
+Bộ nhớ nào sẽ mất dữ liệu khi máy tính bị tắt nguồn?
+{
+~ SSD (Solid State Drive)
+~ HDD (Hard Disk Drive)
+~ ROM (Read-Only Memory)
+= RAM (Random Access Memory)
+}
+Trong một cửa sổ, nút có biểu tượng dấu gạch ngang "_" (Minimize) có chức năng gì?
+{
+~ Đóng cửa sổ
+~ Phóng to cửa sổ
+~ Khôi phục kích thước cửa sổ
+= Thu nhỏ cửa sổ xuống thanh tác vụ (Taskbar)
+}
+Hành động kéo và thả (Drag and Drop) dùng để làm gì?
+{
+~ Xóa một đối tượng
+~ Sao chép một đối tượng
+~ Đổi tên một đối tượng
+= Di chuyển hoặc sao chép một đối tượng đến vị trí mới
+}
+Đâu là một ví dụ về một thiết bị ngoại vi?
+{
+~ CPU
+~ Bo mạch chủ (Mainboard)
+~ Bộ nguồn (PSU)
+= Máy quét (Scanner)
+}
+Phím tắt để mở menu ngữ cảnh (tương đương nhấn chuột phải) là gì?
+{
+~ Phím Windows
+~ Phím Ctrl
+~ Phím Esc
+= Phím Menu (thường có biểu tượng danh sách) hoặc Shift + F10
+}
+Để xem dung lượng trống còn lại của một ổ đĩa, bạn làm gì?
+{
+~ Nhấn đúp chuột vào ổ đĩa
+~ Format ổ đĩa
+~ Đổi tên ổ đĩa
+= Nhấn chuột phải vào ổ đĩa trong This PC và chọn Properties
+}
+Tên của không gian làm việc chính trên màn hình, nơi chứa các biểu tượng và thanh tác vụ là gì?
+{
+~ Start Menu
+~ File Explorer
+~ Control Panel
+= Desktop
+}
+Tổ hợp phím nào giúp bạn di chuyển nhanh đến đầu tài liệu trong nhiều trình soạn thảo?
+{
+~ End
+~ Page Up
+~ Alt + Home
+= Ctrl + Home
+}
+"Driver" của một thiết bị phần cứng là gì?
+{
+~ Dây cáp kết nối thiết bị
+~ Cổng cắm thiết bị trên máy tính
+~ Sách hướng dẫn sử dụng
+= Phần mềm giúp hệ điều hành giao tiếp và điều khiển thiết bị đó
+}
+Chức năng "Task View" trên thanh tác vụ của Windows 10 dùng để làm gì?
+{
+~ Xem các tiến trình đang chạy
+~ Chuyển đổi giữa các tài khoản người dùng
+~ Xem lịch sử các tệp đã mở
+= Xem và quản lý các cửa sổ đang mở và các màn hình ảo (Virtual Desktops)
+}
+Tệp tin có đuôi .gif thường là gì?
+{
+~ Tệp video dài
+~ Tệp âm thanh chất lượng cao
+~ Tệp văn bản
+= Tệp ảnh động hoặc ảnh có nền trong suốt
+}
+Khi máy tính hoạt động chậm, một trong những việc đầu tiên bạn có thể thử là gì?
+{
+~ Tăng độ sáng màn hình
+~ Thay đổi hình nền
+~ Xóa các shortcut trên desktop
+= Khởi động lại máy tính
+}
+Để chọn một chuỗi các tệp tin hoặc thư mục liền kề nhau, bạn chọn tệp đầu tiên, sau đó giữ phím nào và chọn tệp cuối cùng?
+{
+~ Ctrl
+~ Alt
+~ Tab
+= Shift
+}
+"Path" (Đường dẫn) của một tệp tin là gì?
+{
+~ Kích thước của tệp tin
+~ Ngày tạo ra tệp tin
+~ Tên của tệp tin
+= Vị trí chính xác của tệp tin trong cấu trúc thư mục (ví dụ: C:\Users\Admin\Documents\report.docx)
+}
+Phần mềm nào sau đây KHÔNG phải là trình duyệt web?
+{
+~ Mozilla Firefox
+~ Google Chrome
+~ Safari
+= Adobe Photoshop
+}
+Trong cửa sổ File Explorer, thanh nào hiển thị đường dẫn của thư mục hiện tại?
+{
+~ Status bar (Thanh trạng thái)
+~ Toolbar (Thanh công cụ)
+~ Title bar (Thanh tiêu đề)
+= Address bar (Thanh địa chỉ)
+}
+Tổ hợp phím Windows + Tab có chức năng gì?
+{
+~ Mở Action Center
+~ Mở Settings
+~ Chuyển đổi giữa các ứng dụng đang mở (tương tự Alt+Tab)
+= Mở Task View
+}
+"Bluetooth" là công nghệ dùng để làm gì?
+{
+~ Kết nối Internet qua dây cáp
+~ Tăng tốc độ xử lý của CPU
+~ Mã hóa dữ liệu trên ổ cứng
+= Kết nối không dây giữa các thiết bị ở khoảng cách gần
+}
+Một Gigabyte (GB) xấp xỉ bằng bao nhiêu Megabyte (MB)?
+{
+~ 100 MB
+~ 1000 KB
+~ 1024 KB
+= 1024 MB
+}
+Để thay đổi ứng dụng mặc định để mở một loại tệp tin, bạn cần làm gì?
+{
+~ Đổi đuôi của tệp tin đó
+~ Cài đặt lại ứng dụng
+~ Xóa tệp tin đó
+= Nhấn chuột phải vào tệp tin, chọn "Open with" > "Choose another app"
+}
+"ROM" (Read-Only Memory) chứa gì?
+{
+~ Dữ liệu người dùng và các ứng dụng
+~ Hệ điều hành
+~ Các tệp tin tạm thời
+= Phần mềm khởi động cơ bản của máy tính (BIOS/UEFI)
+}
+Hệ thống tập tin phổ biến nhất được sử dụng bởi hệ điều hành Windows hiện nay là gì?
+{
+~ FAT32
+~ ext4
+~ HFS+
+= NTFS
+}
+Tổ hợp phím Ctrl + P trong hầu hết các ứng dụng dùng để làm gì?
+{
+~ Dán (Paste)
+~ Mở thuộc tính (Properties)
+~ Phát (Play) media
+= In (Print)
+}
+Trong File Explorer, cách nhanh nhất để quay lại thư mục vừa truy cập trước đó là gì?
+{
+~ Nhấn phím Home
+~ Nhấn phím Page Up
+~ Nhấn tổ hợp phím Ctrl + Z
+= Nhấn nút mũi tên "Back" (Quay lại) ở góc trên bên trái
+}
+Chức năng của "Sticky Notes" trong Windows là gì?
+{
+~ Trình chiếu slide
+~ Quản lý cơ sở dữ liệu
+~ Chỉnh sửa video
+= Tạo các ghi chú nhanh trên màn hình Desktop
+}
+"User Account" (Tài khoản người dùng) trong Windows cho phép điều gì?
+{
+~ Tăng tốc độ mạng
+~ Nâng cấp phần cứng
+~ Kéo dài thời gian sử dụng pin
+= Nhiều người dùng có thể sử dụng chung một máy tính với các cài đặt và tệp tin riêng biệt
+}
+Khi một ứng dụng bị "treo" (Not Responding), bạn có thể sử dụng công cụ nào để buộc đóng ứng dụng đó?
+{
+~ Control Panel
+~ File Explorer
+~ Settings
+= Task Manager
+}
+Đuôi tệp .mp3 thường chỉ loại tệp nào?
+{
+~ Tệp video
+~ Tệp hình ảnh
+~ Tệp văn bản
+= Tệp âm thanh
+}
+Để hiển thị các tệp tin và thư mục bị ẩn trong File Explorer, bạn cần vào đâu?
+{
+~ Tab Home > Properties
+~ Tab Share > Advanced security
+~ Tab Home > New item
+= Tab View > Đánh dấu vào ô "Hidden items"
+}
+"Sao lưu" (Backup) dữ liệu có nghĩa là gì?
+{
+~ Xóa dữ liệu cũ không cần thiết
+~ Di chuyển dữ liệu sang ổ đĩa khác
+~ Nén dữ liệu để tiết kiệm dung lượng
+= Tạo một bản sao của dữ liệu để phòng trường hợp bản gốc bị mất hoặc hỏng
+}
+Cổng kết nối nào thường được dùng để xuất hình ảnh và âm thanh chất lượng cao từ máy tính ra màn hình hoặc TV?
+{
+~ USB
+~ VGA
+~ Ethernet (RJ-45)
+= HDMI
+}
+"Folder" và "Directory" về cơ bản có ý nghĩa gì?
+{
+~ "Folder" chứa các tệp, "Directory" chứa các "Folder"
+~ "Folder" là thuật ngữ của Windows, "Directory" là của macOS
+~ "Folder" là ảo, "Directory" là vật lý
+= Chúng là hai thuật ngữ khác nhau nhưng cùng chỉ một khái niệm: thư mục chứa tệp tin
+}
+Tổ hợp phím Windows + I dùng để làm gì?
+{
+~ Mở Internet Explorer
+~ Mở thông tin hệ thống
+~ Đảo ngược màu sắc màn hình
+= Mở cửa sổ Cài đặt (Settings) của Windows
+}
+Đâu là một hành động tốt để bảo vệ máy tính khỏi phần mềm độc hại?
+{
+~ Tắt tường lửa (Firewall)
+~ Mở tất cả các tệp đính kèm trong email từ người lạ
+~ Tải phần mềm từ các nguồn không đáng tin cậy
+= Cập nhật hệ điều hành và phần mềm diệt virus thường xuyên
+}
+Trong File Explorer, chế độ xem "Details" (Chi tiết) cung cấp thông tin gì ngoài tên tệp?
+{
+~ Chỉ có hình ảnh thu nhỏ
+~ Chỉ có loại tệp
+~ Chỉ có biểu tượng của ứng dụng
+= Ngày sửa đổi, loại tệp, kích thước, v.v.
+}
+Chức năng của nút "Refresh" (hoặc phím F5) trên Desktop hoặc trong File Explorer là gì?
+{
+~ Khởi động lại máy tính
+~ Hoàn tác hành động trước đó
+~ Mở cửa sổ mới
+= Cập nhật lại nội dung hiển thị của cửa sổ hoặc màn hình
+}
+Khi bạn "nén" (compress) một thư mục, điều gì xảy ra?
+{
+~ Các tệp trong thư mục bị xóa
+~ Thư mục được mã hóa
+~ Thư mục được sao chép
+= Thư mục và các tệp bên trong được gộp lại thành một tệp duy nhất có dung lượng nhỏ hơn
+}
+Để thay đổi chuột cho người thuận tay trái, bạn sẽ vào đâu trong Settings?
+{
+~ System > Display
+~ Personalization > Colors
+~ Apps > Default apps
+= Devices > Mouse
+}
+Đâu không phải là một chức năng của hệ điều hành?
+{
+~ Quản lý bộ nhớ
+~ Quản lý tệp tin
+~ Cung cấp giao diện người dùng
+= Soạn thảo một bài luận
+}
+Tổ hợp phím Ctrl + Shift + N trong File Explorer hoặc trên Desktop dùng để làm gì?
+{
+~ Mở một cửa sổ mới
+~ Mở chế độ ẩn danh trong trình duyệt
+~ Mở Task Manager
+= Tạo một thư mục mới
+}
+"Clipboard" là gì?
+{
+~ Một phần mềm ghi chú
+~ Một thư mục hệ thống
+~ Một thiết bị phần cứng
+= Một vùng nhớ tạm thời để lưu giữ dữ liệu được sao chép (copy) hoặc cắt (cut)
+}
+Để đảm bảo an toàn, bạn nên đặt mật khẩu cho tài khoản người dùng của mình như thế nào?
+{
+~ Sử dụng thông tin dễ đoán như ngày sinh
+~ Sử dụng một từ đơn giản như "password"
+~ Viết mật khẩu ra giấy và dán lên màn hình
+= Kết hợp chữ hoa, chữ thường, số và ký tự đặc biệt
+}
+Đuôi tệp .pptx là của loại tệp nào?
+{
+~ Tệp bảng tính Excel
+~ Tệp cơ sở dữ liệu Access
+~ Tệp văn bản Word
+= Tệp trình chiếu PowerPoint
+}
+Chức năng "Empty Recycle Bin" sẽ dẫn đến kết quả gì?
+{
+~ Khôi phục tất cả các mục trong Recycle Bin
+~ Di chuyển các mục trong Recycle Bin đến một thư mục lưu trữ
+~ Nén các mục trong Recycle Bin
+= Xóa vĩnh viễn tất cả các mục đang có trong Recycle Bin
+}
+Khi chuột không hoạt động, bạn có thể điều khiển con trỏ chuột bằng bàn phím thông qua tính năng nào?
+{
+~ Sticky Keys
+~ Filter Keys
+~ Toggle Keys
+= Mouse Keys
+}
+Tổ hợp phím Windows + M có chức năng gì?
+{
+~ Mở My Computer
+~ Mở menu ngữ cảnh
+~ Tối đa hóa tất cả các cửa sổ
+= Thu nhỏ tất cả các cửa sổ đang mở xuống thanh tác vụ
+}
+Trong các tùy chọn tắt máy, "Sign out" (Đăng xuất) có nghĩa là gì?
+{
+~ Tắt hoàn toàn máy tính
+~ Đưa máy tính vào chế độ ngủ
+~ Khóa máy tính nhưng vẫn giữ các ứng dụng đang chạy
+= Đóng tất cả ứng dụng của bạn và thoát khỏi tài khoản người dùng hiện tại
+}
+Thanh cuộn (Scroll Bar) trong một cửa sổ xuất hiện khi nào?
+{
+~ Khi cửa sổ được phóng to hết cỡ
+~ Khi cửa sổ bị thu nhỏ xuống thanh tác vụ
+~ Khi không có nội dung nào trong cửa sổ
+= Khi nội dung của cửa sổ lớn hơn kích thước hiển thị của nó
+}
+Đâu là thiết bị dùng để nhập âm thanh vào máy tính?
+{
+~ Loa (Speaker)
+~ Tai nghe (Headphone)
+~ Màn hình (Monitor)
+= Micrô (Microphone)
+}
+Để dọn dẹp các tệp tin không cần thiết (tệp tạm, bộ nhớ đệm...) nhằm giải phóng dung lượng ổ đĩa, bạn có thể sử dụng công cụ nào của Windows?
+{
+~ Defragment and Optimize Drives
+~ Task Scheduler
+~ System Restore
+= Disk Cleanup / Storage Sense
+}
+Một "shortcut" (lối tắt) trên Desktop có đặc điểm gì?
+{
+~ Là bản sao đầy đủ của tệp tin gốc
+~ Có dung lượng bằng với tệp tin gốc
+~ Không thể xóa được
+= Là một liên kết trỏ đến một tệp tin hoặc thư mục ở vị trí khác
+}
+Tổ hợp phím Windows + P được sử dụng để làm gì?
+{
+~ Mở bảng điều khiển máy in
+~ Mở cài đặt cá nhân hóa
+~ Dừng một tiến trình
+= Quản lý các chế độ trình chiếu ra màn hình ngoài (Project)
+}
+Để xem cấu hình cơ bản của máy tính (như loại CPU, dung lượng RAM), bạn có thể làm gì?
+{
+~ Mở Command Prompt
+~ Mở Notepad
+~ Chạy Disk Cleanup
+= Nhấn chuột phải vào "This PC" và chọn "Properties"
+}
+"Phân mảnh ổ đĩa" (Disk Fragmentation) xảy ra khi nào?
+{
+~ Khi ổ đĩa bị đầy
+~ Khi ổ đĩa bị nhiễm virus
+~ Khi ổ đĩa quá cũ
+= Khi các phần của một tệp tin bị lưu ở nhiều vị trí khác nhau trên ổ đĩa cứng (HDD)
+}
+Tên miền ".gov" thường chỉ các trang web của tổ chức nào?
+{
+~ Giáo dục (Education)
+~ Thương mại (Commercial)
+~ Tổ chức phi lợi nhuận (Organization)
+= Chính phủ (Government)
+}
+Hành động nào sau đây là không an toàn khi sử dụng máy tính công cộng?
+{
+~ Đăng xuất khỏi tài khoản sau khi sử dụng
+~ Xóa lịch sử duyệt web
+~ Không lưu mật khẩu trên trình duyệt
+= Lưu thông tin đăng nhập và mật khẩu trên trình duyệt
+}
+Chế độ An toàn (Safe Mode) của Windows dùng để làm gì?
+{
+~ Tăng hiệu suất chơi game
+~ Lướt web ẩn danh
+~ Ngăn chặn tất cả các kết nối mạng
+= Khởi động Windows với một bộ trình điều khiển và dịch vụ tối thiểu để khắc phục sự cố
+}
+Đuôi tệp ".exe" là viết tắt của từ gì?
+{
+~ Example
+~ Extra
+~ External
+= Executable
+}
+Trong File Explorer, để tạo một bản sao của tệp tin trong cùng một thư mục, bạn có thể thực hiện thao tác nào?
+{
+~ Đổi tên tệp tin
+~ Nhấn chuột phải và chọn Properties
+~ Nhấn chuột phải và chọn Cut
+= Sao chép (Copy) tệp tin đó rồi Dán (Paste) ngay tại thư mục đó
+}
+Chức năng "System Restore" (Khôi phục Hệ thống) dùng để làm gì?
+{
+~ Khôi phục các tệp tin cá nhân đã bị xóa
+~ Cài đặt lại hoàn toàn hệ điều hành Windows
+~ Xóa tất cả virus khỏi máy tính
+= Đưa các tệp tin và cài đặt hệ thống trở về một thời điểm trong quá khứ
+}
+Loại cổng nào đang dần thay thế các cổng USB-A, HDMI và cổng sạc trên nhiều laptop hiện đại?
+{
+~ VGA
+~ Ethernet
+~ DisplayPort
+= USB-C
+}
+"Software" (phần mềm) là gì?
+{
+~ Các thành phần vật lý của máy tính mà bạn có thể chạm vào
+~ Màn hình và bàn phím
+~ Dữ liệu được lưu trữ trên ổ cứng
+= Một tập hợp các chỉ thị hoặc chương trình máy tính để thực hiện một tác vụ cụ thể
+}
+Tổ hợp phím Windows + mũi tên (lên, xuống, trái, phải) có tác dụng gì?
+{
+~ Điều chỉnh âm lượng
+~ Di chuyển con trỏ chuột
+~ Chuyển đổi giữa các màn hình ảo
+= Sắp xếp cửa sổ đang hoạt động (phóng to, thu nhỏ, sang nửa màn hình trái/phải)
+}
+Khi mua một phần mềm, "license" (giấy phép) cho bạn quyền gì?
+{
+~ Quyền sở hữu mã nguồn của phần mềm
+~ Quyền phân phối lại phần mềm một cách tự do
+~ Quyền sửa đổi phần mềm theo ý muốn
+= Quyền sử dụng phần mềm đó theo các điều khoản và điều kiện của nhà sản xuất
+}
+"BIOS" hoặc "UEFI" là gì?
+{
+~ Một hệ điều hành
+~ Một ứng dụng diệt virus
+~ Một trình duyệt web
+= Phần mềm được lưu trên chip của bo mạch chủ, dùng để khởi tạo phần cứng khi bật máy
+}
+Bạn có thể tìm thấy tên của máy tính (Computer Name) ở đâu?
+{
+~ Trong Task Manager
+~ Trong trình duyệt web
+~ Trong cài đặt màn hình
+= Trong cửa sổ System Properties (Thuộc tính hệ thống)
+}
+Để ngăn người khác xem trộm màn hình của bạn khi bạn rời khỏi máy tính trong giây lát, cách nhanh nhất là gì?
+{
+~ Tắt máy (Shut down)
+~ Đăng xuất (Sign out)
+~ Khởi động lại (Restart)
+= Khóa màn hình (Nhấn Windows + L)
+}
+Tệp tin có đuôi .zip hoặc .rar được gọi là gì?
+{
+~ Tệp hệ thống
+~ Tệp video
+~ Tệp nhật ký
+= Tệp nén
+}
+ 
+XỬ LÝ VĂN BẢN CƠ BẢN
+Trong hộp thoại Paragraph, tùy chọn "Indentation" dùng để thiết lập gì?
+{
+~ Khoảng cách dòng
+~ Hướng văn bản
+~ Kích thước giấy
+= Thụt lề cho đoạn văn
+}
+Để chèn một bảng vào văn bản, bạn vào thẻ nào?
+{
+~ Home
+~ Page Layout
+~ View
+= Insert
+}
+Trong thẻ Table Tools -> Layout, chức năng "Merge Cells" dùng để làm gì?
+{
+~ Tách một ô thành nhiều ô
+~ Chèn thêm dòng
+~ Xóa cột
+= Gộp nhiều ô thành một ô
+}
+Chức năng "Split Cells" trong bảng dùng để làm gì?
+{
+~ Gộp ô
+~ Xóa bảng
+~ Chèn bảng
+= Tách một ô thành nhiều ô
+}
+Để chèn một hình ảnh từ máy tính vào văn bản, bạn chọn?
+{
+~ Insert -> Online Pictures
+~ Insert -> Shapes
+~ Insert -> SmartArt
+= Insert -> Pictures
+}
+Công cụ "Wrap Text" trong thẻ Picture Tools -> Format dùng để làm gì?
+{
+~ Cắt xén hình ảnh
+~ Thay đổi độ sáng của ảnh
+~ Xoay hình ảnh
+= Điều chỉnh cách văn bản bao quanh hình ảnh
+}
+Để chèn một hình vẽ (như hình chữ nhật, mũi tên), bạn sử dụng chức năng nào?
+{
+~ Insert -> Chart
+~ Insert -> Picture
+~ Insert -> Symbol
+= Insert -> Shapes
+}
+Chức năng "Header" trong thẻ Insert dùng để làm gì?
+{
+~ Tạo ghi chú cuối trang
+~ Đánh số trang
+~ Tạo chữ nghệ thuật
+= Tạo tiêu đề đầu trang
+}
+Để tạo tiêu đề chân trang, bạn chọn chức năng nào?
+{
+~ Insert -> Header
+~ Insert -> Page Number
+~ Insert -> Text Box
+= Insert -> Footer
+}
+Chức năng đánh số trang tự động nằm ở đâu?
+{
+~ Insert -> Text Box
+~ Insert -> Header
+~ Home -> Paragraph
+= Insert -> Page Number
+}
+Để kiểm tra lỗi chính tả và ngữ pháp, bạn vào thẻ nào?
+{
+~ Home
+~ View
+~ Page Layout
+= Review
+}
+Phím tắt để bắt đầu kiểm tra chính tả là gì?
+{
+~ F1
+~ F5
+~ F12
+= F7
+}
+Để thiết lập lề cho trang giấy (Margins), bạn vào đâu?
+{
+~ Home -> Paragraph
+~ Insert -> Page Setup
+~ View -> Page Layout
+= Page Layout -> Margins
+}
+Để thay đổi kích thước khổ giấy (ví dụ A4, Letter), bạn chọn?
+{
+~ Page Layout -> Orientation
+~ Page Layout -> Margins
+~ File -> Print -> Page Setup
+= Page Layout -> Size
+}
+Chức năng chia văn bản thành nhiều cột (Columns) nằm ở đâu?
+{
+~ Insert -> Columns
+~ Home -> Paragraph
+~ View -> Columns
+= Page Layout -> Columns
+}
+Để chèn một dấu ngắt trang (Page Break), bạn nhấn tổ hợp phím nào?
+{
+~ Ctrl + Shift + Enter
+~ Alt + Enter
+~ Space + Enter
+= Ctrl + Enter
+}
+Trong chế độ xem "Print Layout", bạn thấy văn bản như thế nào?
+{
+~ Dưới dạng dàn bài
+~ Chỉ thấy văn bản thô
+~ Dưới dạng trang web
+= Giống như khi được in ra giấy
+}
+Chế độ xem "Read Mode" tối ưu cho việc gì?
+{
+~ Chỉnh sửa văn bản
+~ In ấn
+~ Thiết kế bố cục
+= Đọc văn bản trên màn hình
+}
+Chức năng "Zoom" trong thẻ View dùng để làm gì?
+{
+~ Thay đổi kích thước phông chữ
+~ Thay đổi kích thước trang in
+~ Chuyển đổi chế độ xem
+= Phóng to hoặc thu nhỏ chế độ xem tài liệu
+}
+Để sao chép định dạng của một đoạn văn bản và áp dụng cho đoạn khác, bạn dùng công cụ nào?
+{
+~ Copy/Paste
+~ Cut/Paste
+~ Change Styles
+= Format Painter
+}
+Tổ hợp phím Ctrl + Shift + C dùng để làm gì?
+{
+~ Sao chép văn bản
+~ Sao chép định dạng và văn bản
+~ Cắt định dạng
+= Chỉ sao chép định dạng
+}
+Tổ hợp phím Ctrl + Shift + V có chức năng gì?
+{
+~ Dán văn bản
+~ Dán và giữ định dạng nguồn
+~ Mở hộp thoại Paste Special
+= Dán định dạng đã sao chép
+}
+Để tạo một Drop Cap (chữ to đầu đoạn), bạn vào thẻ nào?
+{
+~ Home
+~ Page Layout
+~ Review
+= Insert
+}
+Chức năng "WordArt" dùng để làm gì?
+{
+~ Chèn ký tự đặc biệt
+~ Vẽ hình khối
+~ Chèn biểu đồ
+= Tạo chữ nghệ thuật
+}
+Để chèn một ký tự đặc biệt (ví dụ ©, ®), bạn sử dụng chức năng nào?
+{
+~ Insert -> Equation
+~ Insert -> WordArt
+~ Home -> Font
+= Insert -> Symbol
+}
+Trong bảng (Table), để di chuyển đến ô tiếp theo, bạn có thể nhấn phím nào?
+{
+~ Enter
+~ Spacebar
+~ Shift
+= Tab
+}
+Để di chuyển về ô phía trước trong bảng, bạn nhấn tổ hợp phím nào?
+{
+~ Ctrl + Tab
+~ Alt + Tab
+~ Tab
+= Shift + Tab
+}
+Để thêm một dòng mới ở cuối bảng, bạn đặt con trỏ ở ô cuối cùng và nhấn phím gì?
+{
+~ Enter
+~ Space
+~ Down Arrow
+= Tab
+}
+Làm thế nào để thay đổi đường viền cho bảng (Table Borders)?
+{
+~ Page Layout -> Page Borders
+~ Insert -> Borders
+~ Home -> Font
+= Table Tools -> Design -> Borders
+}
+Chức năng "Shading" trong Table Tools -> Design dùng để làm gì?
+{
+~ Thay đổi màu chữ trong bảng
+~ Thay đổi kiểu đường viền
+~ Gộp các ô
+= Tô màu nền cho ô hoặc bảng
+}
+Để chuyển đổi văn bản có sẵn thành bảng, bạn vào đâu?
+{
+~ Insert -> Table -> Draw Table
+~ Insert -> Table -> Excel Spreadsheet
+~ Table Tools -> Layout -> Convert
+= Insert -> Table -> Convert Text to Table
+}
+Chức năng "Text Direction" trong Table Tools -> Layout cho phép bạn làm gì?
+{
+~ Căn lề văn bản trong ô
+~ Thay đổi phông chữ
+~ Sắp xếp dữ liệu
+= Thay đổi hướng của văn bản trong ô
+}
+Làm thế nào để lặp lại dòng tiêu đề của bảng trên mỗi trang?
+{
+~ Sao chép và dán thủ công
+~ Insert -> Header
+~ Page Layout -> Print Titles
+= Table Tools -> Layout -> Repeat Header Rows
+}
+Để chèn một biểu đồ (Chart) vào Word, bạn chọn?
+{
+~ Insert -> SmartArt
+~ Insert -> Shapes
+~ Insert -> Picture
+= Insert -> Chart
+}
+Để chèn một siêu liên kết (Hyperlink) vào văn bản, bạn dùng tổ hợp phím nào?
+{
+~ Ctrl + H
+~ Ctrl + L
+~ Alt + K
+= Ctrl + K
+}
+Một siêu liên kết trong Word có thể dẫn đến đâu?
+{
+~ Chỉ một trang web
+~ Chỉ một file khác
+~ Chỉ một địa chỉ email
+= Một trang web, một file, một địa chỉ email hoặc một vị trí trong tài liệu
+}
+Chức năng "Bookmark" (Đánh dấu) trong thẻ Insert dùng để làm gì?
+{
+~ Tạo một liên kết đến trang web
+~ Đánh dấu lỗi chính tả
+~ Tạo ghi chú
+= Tạo một vị trí tham chiếu trong tài liệu
+}
+Để tạo mục lục tự động, trước hết bạn cần làm gì?
+{
+~ Đánh số trang
+~ Chèn Header và Footer
+~ Chia cột văn bản
+= Áp dụng các kiểu định dạng (Styles) cho các tiêu đề
+}
+Chức năng tạo mục lục (Table of Contents) nằm ở thẻ nào?
+{
+~ Insert
+~ Home
+~ Page Layout
+= References
+}
+Để cập nhật một mục lục đã tạo, bạn làm gì?
+{
+~ Xóa đi tạo lại
+~ Chỉnh sửa thủ công
+~ Vào File -> Update
+= Nhấn chuột phải vào mục lục và chọn Update Field
+}
+Chức năng "Footnote" (Ghi chú chân trang) dùng để làm gì?
+{
+~ Tạo tiêu đề cuối mỗi trang
+~ Đánh số trang ở cuối
+~ Liệt kê các tài liệu tham khảo
+= Thêm ghi chú hoặc trích dẫn ở cuối trang
+}
+Sự khác biệt giữa Footnote và Endnote là gì?
+{
+~ Footnote ở cuối trang, Endnote ở cuối đoạn
+~ Footnote có số, Endnote có chữ
+~ Footnote dùng cho trích dẫn, Endnote dùng cho giải thích
+= Footnote xuất hiện ở cuối mỗi trang, Endnote xuất hiện ở cuối tài liệu
+}
+Để chèn một chú thích cho hình ảnh (Caption), bạn làm gì?
+{
+~ Gõ chữ ngay dưới ảnh
+~ Dùng Text Box
+~ Insert -> Comment
+= Nhấn chuột phải vào ảnh -> Insert Caption
+}
+Chức năng "Track Changes" trong thẻ Review có công dụng gì?
+{
+~ Theo dõi thời gian soạn thảo
+~ Đếm số từ trong văn bản
+~ Kiểm tra tương thích phiên bản
+= Theo dõi và hiển thị các thay đổi được thực hiện trong tài liệu
+}
+Khi "Track Changes" được bật, các nội dung bị xóa sẽ hiển thị như thế nào?
+{
+~ Biến mất hoàn toàn
+~ Chuyển thành màu xám
+~ Chuyển thành chữ nhỏ
+= Bị gạch ngang hoặc hiển thị trong bong bóng chú thích
+}
+Để chấp nhận một thay đổi khi dùng Track Changes, bạn chọn nút nào?
+{
+~ Reject
+~ Next
+~ Previous
+= Accept
+}
+Làm thế nào để so sánh hai phiên bản của một tài liệu?
+{
+~ Mở cả hai và nhìn bằng mắt thường
+~ Copy và paste vào cùng một file
+~ File -> Info -> Compare
+= Review -> Compare -> Compare...
+}
+Chức năng "Restrict Editing" trong thẻ Review cho phép bạn làm gì?
+{
+~ Đặt mật khẩu mở file
+~ Mã hóa tài liệu
+~ Chỉ cho phép in
+= Hạn chế các loại thay đổi người khác có thể thực hiện
+}
+Để đặt mật khẩu cho việc mở hoặc chỉnh sửa tài liệu, bạn vào đâu?
+{
+~ Review -> Protect Document
+~ Page Layout -> Protect
+~ Home -> Security
+= File -> Info -> Protect Document
+}
+Khi lưu tài liệu dưới dạng PDF, điều gì xảy ra?
+{
+~ Định dạng có thể bị thay đổi nhiều
+~ Bất kỳ ai cũng có thể chỉnh sửa dễ dàng
+~ Kích thước file thường lớn hơn file DOCX
+= Định dạng được giữ nguyên và khó chỉnh sửa hơn
+}
+Để lưu file Word sang định dạng PDF, bạn chọn thao tác nào?
+{
+~ File -> Print -> Print to PDF
+~ File -> Share -> Email as PDF
+~ Dùng một phần mềm chuyển đổi online
+= File -> Save As -> Chọn "PDF" trong mục "Save as type"
+}
+Trong hộp thoại Print, tùy chọn "Copies" để làm gì?
+{
+~ Chọn máy in
+~ Chọn số trang trên một tờ
+~ Chọn khổ giấy
+= Chọn số lượng bản in
+}
+Làm thế nào để chỉ in các trang chẵn của tài liệu?
+{
+~ Chọn "Print Current Page"
+~ Nhập thủ công các số trang chẵn
+~ Chọn "Print Custom Range"
+= Trong mục Settings, chọn "Only Print Odd Pages" rồi chọn "Only Print Even Pages" sau đó. Tuy nhiên, cách trực tiếp là chọn "Only Print Even Pages"
+}
+*Note: Some Word versions offer this directly, some require a workaround. The most direct intended answer is selected.*
+Để chỉ in trang hiện tại, bạn chọn tùy chọn nào trong cài đặt in?
+{
+~ Print All Pages
+~ Print Selection
+~ Print Custom Range
+= Print Current Page
+}
+Chức năng "Print Selection" dùng để làm gì?
+{
+~ In các trang được chọn trong mục Pages
+~ In các trang chẵn
+~ In các trang lẻ
+= Chỉ in phần văn bản đang được bôi đen
+}
+Để chèn một trang bìa (Cover Page) có sẵn, bạn vào đâu?
+{
+~ Page Layout -> Cover Page
+~ Home -> Styles
+~ View -> Cover Page
+= Insert -> Cover Page
+}
+Làm thế nào để thêm đường viền cho trang (Page Borders)?
+{
+~ Insert -> Borders
+~ Home -> Paragraph -> Borders
+~ Review -> Borders
+= Page Layout -> Page Borders
+}
+Chức năng "Watermark" (Hình mờ) trong thẻ Page Layout dùng để làm gì?
+{
+~ Chèn một ảnh nền cho trang
+~ Tạo bóng cho chữ
+~ Làm mờ hình ảnh
+= Chèn một văn bản hoặc hình ảnh mờ phía sau nội dung chính
+}
+Làm thế nào để thay đổi màu nền của trang giấy?
+{
+~ View -> Page Color
+~ Insert -> Background
+~ Home -> Shading
+= Page Layout -> Page Color
+}
+Tổ hợp phím Shift + F3 có tác dụng gì?
+{
+~ Mở hộp thoại Font
+~ Tìm kiếm và thay thế
+~ Lưu tài liệu dưới tên khác
+= Thay đổi qua lại giữa các kiểu chữ hoa/thường
+}
+Để tạo một dòng kẻ ngang nhanh chóng, bạn có thể gõ ký tự nào ba lần rồi nhấn Enter?
+{
+~ ===
+~ ***
+~ ###
+= ---
+}
+Để chọn một từ, bạn thực hiện thao tác nào?
+{
+~ Nhấn chuột một lần vào từ đó
+~ Kéo chuột qua từ đó
+~ Nhấn chuột ba lần vào từ đó
+= Nhấn đúp chuột vào từ đó
+}
+Để chọn một đoạn văn, bạn làm gì?
+{
+~ Nhấn chuột một lần vào đoạn văn
+~ Nhấn đúp chuột vào đoạn văn
+~ Nhấn chuột phải và chọn Select Paragraph
+= Nhấn chuột ba lần vào đoạn văn
+}
+Làm thế nào để xóa một ký tự bên trái con trỏ?
+{
+~ Delete
+~ End
+~ Ctrl + Delete
+= Backspace
+}
+Phím Delete trên bàn phím có chức năng gì?
+{
+~ Xóa ký tự bên trái con trỏ
+~ Xóa toàn bộ dòng
+~ Xóa toàn bộ đoạn
+= Xóa ký tự bên phải con trỏ
+}
+Tổ hợp phím Ctrl + Backspace dùng để làm gì?
+{
+~ Xóa một ký tự bên trái
+~ Xóa một dòng
+~ Hoàn tác
+= Xóa một từ bên trái con trỏ
+}
+Tổ hợp phím Ctrl + Delete dùng để làm gì?
+{
+~ Xóa một ký tự bên phải
+~ Xóa một câu
+~ Xóa một đoạn
+= Xóa một từ bên phải con trỏ
+}
+Phím Home trên bàn phím đưa con trỏ đến đâu?
+{
+~ Đầu tài liệu
+~ Đầu đoạn văn
+~ Đầu trang
+= Đầu dòng hiện tại
+}
+Phím End trên bàn phím đưa con trỏ đến đâu?
+{
+~ Cuối tài liệu
+~ Cuối đoạn văn
+~ Cuối trang
+= Cuối dòng hiện tại
+}
+Tổ hợp phím Ctrl + Home đưa con trỏ đến vị trí nào?
+{
+~ Đầu dòng
+~ Đầu trang hiện tại
+~ Đầu đoạn văn
+= Đầu tài liệu
+}
+Tổ hợp phím Ctrl + End có chức năng gì?
+{
+~ Đi đến cuối dòng
+~ Đi đến cuối trang
+~ Đi đến cuối đoạn
+= Đi đến cuối tài liệu
+}
+Chức năng "Spike" (Ctrl + F3) trong Word là gì?
+{
+~ Dán nội dung
+~ Hoàn tác nhiều lần
+~ Tìm kiếm nâng cao
+= Cắt nhiều phần văn bản và dán tất cả cùng lúc
+}
+Để dán nội dung từ Spike, bạn dùng tổ hợp phím nào?
+{
+~ Ctrl + V
+~ Shift + F3
+~ Alt + Shift + V
+= Ctrl + Shift + F3
+}
+Để xem cấu trúc dàn bài của tài liệu, bạn nên dùng chế độ xem nào?
+{
+~ Print Layout
+~ Web Layout
+~ Draft
+= Outline
+}
+Làm thế nào để chèn ngày và giờ hiện tại vào văn bản?
+{
+~ Gõ thủ công
+~ Insert -> Symbol
+~ Home -> Date
+= Insert -> Date & Time
+}
+Để tạo một biểu mẫu (form) trong Word, bạn cần hiển thị thẻ nào?
+{
+~ View
+~ Add-Ins
+~ Page Layout
+= Developer
+}
+Nếu thẻ Developer không hiển thị, làm thế nào để bật nó?
+{
+~ View -> Toolbars -> Developer
+~ Insert -> Developer Tab
+~ Review -> Show Developer
+= File -> Options -> Customize Ribbon -> Check "Developer"
+}
+Chức năng "AutoCorrect" giúp bạn làm gì?
+{
+~ Tự động căn lề
+~ Tự động chọn phông chữ
+~ Tự động lưu file
+= Tự động sửa các lỗi gõ sai phổ biến
+}
+Bạn có thể tùy chỉnh các quy tắc AutoCorrect ở đâu?
+{
+~ Review -> AutoCorrect
+~ Home -> Editing -> AutoCorrect
+~ Insert -> AutoCorrect Options
+= File -> Options -> Proofing -> AutoCorrect Options
+}
+Để tạo một Style (kiểu định dạng) mới, bạn làm gì?
+{
+~ Home -> Font -> New Style
+~ Page Layout -> Themes -> Create New Style
+~ Insert -> Style
+= Mở rộng cửa sổ Styles -> Create a Style
+}
+Lợi ích chính của việc sử dụng Styles là gì?
+{
+~ Giúp văn bản trông đẹp hơn
+~ Giảm kích thước file
+~ Giúp in nhanh hơn
+= Đảm bảo định dạng nhất quán và dễ dàng thay đổi hàng loạt
+}
+Để ngắt dòng mà không tạo đoạn mới, bạn dùng tổ hợp phím nào?
+{
+~ Enter
+~ Ctrl + Enter
+~ Alt + Enter
+= Shift + Enter
+}
+Trong hộp thoại "Find and Replace", ký hiệu `^p` đại diện cho cái gì?
+{
+~ Một dấu tab
+~ Một dấu ngắt dòng thủ công
+~ Một khoảng trắng bất kỳ
+= Một dấu ngắt đoạn (Paragraph Mark)
+}
+Ký hiệu `^t` trong hộp thoại "Find and Replace" được dùng để tìm kiếm gì?
+{
+~ Dấu ngắt trang
+~ Dấu ngắt đoạn
+~ Khoảng trắng
+= Dấu Tab
+}
+Chức năng "Mail Merge" (Trộn thư) dùng để làm gì?
+{
+~ Gửi email hàng loạt từ Word
+~ In nhiều tài liệu cùng lúc
+~ Kết hợp các tài liệu Word lại với nhau
+= Tạo các tài liệu cá nhân hóa (thư, nhãn) từ một danh sách dữ liệu
+}
+Thẻ nào chứa các công cụ cho Mail Merge?
+{
+~ Insert
+~ References
+~ Home
+= Mailings
+}
+Bước đầu tiên trong quy trình Mail Merge là gì?
+{
+~ Viết nội dung thư
+~ Chèn các trường trộn
+~ Xem trước kết quả
+= Chọn loại tài liệu và danh sách người nhận
+}
+Nguồn dữ liệu cho Mail Merge có thể là gì?
+{
+~ Chỉ là bảng trong Word
+~ Chỉ là danh bạ Outlook
+~ Chỉ là file txt
+= Bảng Word, sổ địa chỉ Outlook, bảng tính Excel, v.v.
+}
+"Merge Field" trong Mail Merge là gì?
+{
+~ Một trường để nhập dữ liệu mới
+~ Một công thức tính toán
+~ Một ghi chú cho người nhận
+= Một mã giữ chỗ để chèn thông tin từ nguồn dữ liệu
+}
+Để hoàn tất việc trộn thư, bạn chọn tùy chọn nào?
+{
+~ Print Documents
+~ Edit Individual Documents
+~ Send Email Messages
+= Cả ba tùy chọn trên đều là cách để hoàn tất
+}
+Làm thế nào để chèn phương trình toán học vào Word?
+{
+~ Insert -> Symbol -> Equation
+~ Insert -> Text Box
+~ Dùng WordArt
+= Insert -> Equation
+}
+Thanh công cụ mini (Mini Toolbar) xuất hiện khi nào?
+{
+~ Khi bạn khởi động Word
+~ Khi bạn lưu tài liệu
+~ Khi bạn nhấn chuột phải
+= Khi bạn chọn (bôi đen) văn bản
+}
+Chế độ xem "Draft" hiển thị văn bản như thế nào?
+{
+~ Giống hệt khi in
+~ Có đầy đủ hình ảnh và bố cục
+~ Tối ưu cho đọc
+= Hiển thị văn bản thô, không có bố cục phức tạp như Header, Footer
+}
+Làm thế nào để ẩn hoặc hiện thước đo (Ruler)?
+{
+~ Page Layout -> Ruler
+~ Home -> Show Ruler
+~ File -> Options -> View -> Show Ruler
+= View -> Ruler
+}
+Trong Microsoft Word, "template" (.dotx) là gì?
+{
+~ Một tài liệu chỉ đọc
+~ Một tài liệu được mã hóa
+~ Một bản sao lưu tự động
+= Một tệp mẫu với các định dạng và bố cục được xác định trước
+}
+Khi bạn tạo một tài liệu mới dựa trên một template, điều gì xảy ra?
+{
+~ Template gốc bị thay đổi
+~ Bạn phải lưu tài liệu với đuôi .dotx
+~ Tài liệu mới không thể chỉnh sửa
+= Một tài liệu mới (.docx) được tạo ra với các định dạng của template
+}
+Chức năng "Thesaurus" (Từ điển đồng nghĩa) giúp bạn làm gì?
+{
+~ Kiểm tra lỗi chính tả
+~ Dịch văn bản sang ngôn ngữ khác
+~ Đếm số từ
+= Tìm các từ đồng nghĩa hoặc trái nghĩa
+}
+Để sử dụng Thesaurus, bạn nhấn chuột phải vào một từ và chọn?
+{
+~ Translate
+~ Look Up
+~ Define
+= Synonyms
+}
+Phím tắt để mở từ điển đồng nghĩa (Thesaurus) là gì?
+{
+~ Ctrl + F7
+~ Alt + F7
+~ F7
+= Shift + F7
+}
+Chức năng "Word Count" trong thẻ Review cung cấp thông tin gì?
+{
+~ Chỉ số từ
+~ Số trang, số từ, số ký tự, số đoạn, số dòng
+~ Chỉ số từ và số trang
+= Chỉ số từ và số ký tự
+}
+Để chèn một bình luận (Comment) vào tài liệu, bạn vào thẻ nào?
+{
+~ Insert -> Text Box
+~ Page Layout -> Comments
+~ Home -> Add Comment
+= Review -> New Comment
+}
+Làm thế nào để di chuyển nhanh giữa các bình luận?
+{
+~ Sử dụng thanh cuộn
+~ Dùng phím Page Up/Page Down
+~ Dùng mũi tên lên/xuống
+= Trong thẻ Review, sử dụng nút Previous/Next trong nhóm Comments
+}
+Mục đích của việc chia văn bản thành các section là gì?
+{
+~ Để dễ dàng định dạng ký tự
+~ Để tạo các đoạn văn khác nhau
+~ Để chèn bảng dễ hơn
+= Để áp dụng các định dạng trang khác nhau (lề, hướng giấy, header/footer) cho các phần khác nhau của tài liệu
+}
+Để chèn một Section Break, bạn vào đâu?
+{
+~ Insert -> Breaks
+~ Home -> Breaks
+~ Review -> Breaks
+= Page Layout -> Breaks
+}
+Sự khác biệt giữa Page Break và Section Break (Next Page) là gì?
+{
+~ Không có sự khác biệt
+~ Page Break bắt đầu trang mới, Section Break không
+~ Page Break tạo section mới, Section Break thì không
+= Cả hai đều bắt đầu trang mới, nhưng Section Break cho phép định dạng trang khác với section trước
+}
+Để tạo các Header/Footer khác nhau cho các Section, bạn cần tắt tùy chọn nào?
+{
+~ Show Previous
+~ Go to Footer
+~ Different First Page
+= Link to Previous
+}
+Chức năng "SmartArt" trong thẻ Insert cho phép bạn tạo ra cái gì?
+{
+~ Chữ nghệ thuật
+~ Biểu đồ dữ liệu
+~ Bảng biểu phức tạp
+= Các sơ đồ trực quan (quy trình, phân cấp, chu kỳ...)
+}
+Để căn chỉnh các đối tượng (hình ảnh, shape) với nhau, bạn có thể sử dụng công cụ nào?
+{
+~ Group
+~ Rotate
+~ Wrap Text
+= Align
+}
+Chức năng "Group" các đối tượng có tác dụng gì?
+{
+~ Thay đổi kích thước đồng loạt
+~ Di chuyển các đối tượng riêng lẻ
+~ Xóa tất cả đối tượng được chọn
+= Kết hợp nhiều đối tượng thành một để dễ dàng di chuyển và định dạng
+}
+Để thay đổi thứ tự xếp chồng của các đối tượng (đưa ra trước, đưa về sau), bạn dùng lệnh nào?
+{
+~ Group/Ungroup
+~ Align
+~ Rotate
+= Bring Forward / Send Backward
+}
+Làm thế nào để xem các ký tự không in được (như dấu cách, dấu tab, dấu ngắt đoạn)?
+{
+~ View -> Show Hidden Characters
+~ Review -> Show Formatting
+~ Insert -> Symbols
+= Home -> Show/Hide ¶
+}
+Để thay đổi khoảng cách mặc định của điểm dừng Tab, bạn vào đâu?
+{
+~ Page Layout -> Tabs
+~ View -> Tabs
+~ Insert -> Tabs
+= Hộp thoại Paragraph -> Tabs...
+}
+Trong Word, lề đối xứng (Mirrored margins) thường được sử dụng cho mục đích gì?
+{
+~ In một mặt
+~ Soạn thảo thư
+~ Tạo trang web
+= In hai mặt (đóng sách)
+}
+Để áp dụng một Theme (chủ đề) cho toàn bộ tài liệu (bao gồm màu sắc, phông chữ, hiệu ứng), bạn vào thẻ nào?
+{
+~ Insert
+~ Home
+~ View
+= Page Layout
+}
+Khi dán văn bản, tùy chọn "Keep Text Only" có nghĩa là gì?
+{
+~ Giữ lại định dạng từ nguồn
+~ Hợp nhất định dạng
+~ Dán dưới dạng hình ảnh
+= Chỉ dán nội dung chữ, loại bỏ mọi định dạng gốc
+}
+ 
+SỬ DỤNG BẢNG TÍNH CƠ BẢN
+Loại biểu đồ nào thích hợp nhất để thể hiện tỷ lệ phần trăm của các thành phần trong một tổng thể?
+{
+~ Biểu đồ đường (Line Chart)
+~ Biểu đồ cột (Column Chart)
+~ Biểu đồ vùng (Area Chart)
+= Biểu đồ tròn (Pie Chart)
+}
+Để xem trước trang in, bạn chọn lệnh nào?
+{
+~ File -> View
+~ File -> Save
+~ File -> Edit
+= File -> Print (Print Preview)
+}
+Để cố định dòng tiêu đề khi cuộn trang tính, bạn sử dụng tính năng nào?
+{
+~ Split
+~ Hide
+~ Protect Sheet
+= Freeze Panes
+}
+Tổ hợp phím nào dùng để di chuyển đến ô A1 của trang tính?
+{
+~ Ctrl + End
+~ Page Up
+~ Home
+= Ctrl + Home
+}
+Để xóa một trang tính (worksheet), bạn làm gì?
+{
+~ Nhấn phuním Delete trên bàn phím
+~ Vào File -> Delete
+~ Chọn trang tính và vào Edit -> Delete
+= Nhấn chuột phải vào tên trang tính và chọn Delete
+}
+Trong Excel, công thức =SUM(A1:A5) tương đương với công thức nào sau đây?
+{
+~ =A1+A2+A3+A4
+~ =SUM(A1,A5)
+~ =TOTAL(A1:A5)
+= =A1+A2+A3+A4+A5
+}
+Hàm ROUND(123.456, 2) sẽ cho kết quả là bao nhiêu?
+{
+~ 123.4
+~ 123
+~ 123.46
+= 123.46
+}
+Hàm VLOOKUP được sử dụng để làm gì?
+{
+~ Tìm kiếm giá trị theo chiều ngang
+~ Đếm số lượng giá trị thỏa điều kiện
+~ Tính tổng các giá trị thỏa điều kiện
+= Tìm kiếm giá trị trong cột đầu tiên của một bảng và trả về giá trị tương ứng từ một cột khác
+}
+Phím tắt để chỉnh sửa nội dung của một ô đang chọn là gì?
+{
+~ F1
+~ F4
+~ F5
+= F2
+}
+Để chèn một ký tự đặc biệt (ví dụ: ©, ®, ™), bạn vào thẻ Insert và chọn lệnh nào?
+{
+~ Picture
+~ Shape
+~ SmartArt
+= Symbol
+}
+Để thiết lập vùng in cho một trang tính, bạn cần làm gì?
+{
+~ Bôi đen vùng cần in và vào File -> Print
+~ Vào Page Layout -> Margins
+~ Vào Page Layout -> Size
+= Bôi đen vùng cần in, vào Page Layout -> Print Area -> Set Print Area
+}
+Chức năng "Conditional Formatting" trong thẻ Home dùng để làm gì?
+{
+~ Định dạng bảng theo mẫu có sẵn
+~ Định dạng số liệu trong ô
+~ Chuyển đổi dữ liệu thành bảng
+= Tự động định dạng các ô dựa trên một điều kiện cho trước
+}
+Hàm LEFT("HaNoi", 2) trả về kết quả là gì?
+{
+~ Noi
+~ aN
+~ H
+= Ha
+}
+Hàm RIGHT("VietNam", 3) trả về kết quả là gì?
+{
+~ Vie
+~ tNa
+~ m
+= Nam
+}
+Hàm MID("SaiGon", 2, 2) trả về kết quả là gì?
+{
+~ Sa
+~ Go
+~ iG
+= ai
+}
+Hàm LEN("Excel 2016") trả về kết quả là bao nhiêu?
+{
+~ 9
+~ 8
+~ 10
+= 10
+}
+Để tìm kiếm và thay thế dữ liệu trong Excel, bạn sử dụng tổ hợp phím nào?
+{
+~ Ctrl + F
+~ Ctrl + G
+~ Ctrl + T
+= Ctrl + H
+}
+Trong cửa sổ "Format Cells", thẻ nào dùng để kẻ đường viền cho ô?
+{
+~ Font
+~ Fill
+~ Protection
+= Border
+}
+Trong cửa sổ "Format Cells", thẻ nào dùng để tô màu nền cho ô?
+{
+~ Font
+~ Border
+~ Alignment
+= Fill
+}
+Toán tử nào được sử dụng để nối chuỗi trong Excel?
+{
+~ + (dấu cộng)
+~ , (dấu phẩy)
+~ ; (dấu chấm phẩy)
+= & (dấu và)
+}
+Công thức ="Ha" & " " & "Noi" sẽ trả về kết quả gì?
+{
+~ HaNoi
+~ Ha Noi
+~ "Ha Noi"
+= Ha Noi
+}
+Trong biểu đồ, "Legend" (chú giải) có chức năng gì?
+{
+~ Hiển thị tiêu đề của biểu đồ
+~ Hiển thị các giá trị trên các cột/điểm dữ liệu
+~ Hiển thị tên của các trục
+= Giải thích ý nghĩa của các chuỗi dữ liệu (series) trong biểu đồ
+}
+Để thay đổi loại biểu đồ đã tạo, bạn làm gì?
+{
+~ Xóa biểu đồ cũ và tạo lại biểu đồ mới
+~ Vào thẻ Insert và chọn loại biểu đồ khác
+~ Nhấn đúp chuột vào biểu đồ
+= Chọn biểu đồ, vào thẻ Design -> Change Chart Type
+}
+Lỗi #NAME? trong công thức Excel có nghĩa là gì?
+{
+~ Công thức chia cho số 0
+~ Giá trị không hợp lệ
+~ Địa chỉ ô không hợp lệ
+= Excel không nhận ra tên hàm, tên vùng hoặc tên hằng số trong công thức
+}
+Lỗi #DIV/0! trong công thức Excel có nghĩa là gì?
+{
+~ Sai tên hàm
+~ Vùng dữ liệu không hợp lệ
+~ Tham chiếu không tồn tại
+= Công thức thực hiện một phép chia cho 0
+}
+Lỗi #VALUE! trong công thức Excel xuất hiện khi nào?
+{
+~ Công thức chứa tên hàm không đúng
+~ Công thức chia cho số không
+~ Công thức tham chiếu đến một ô không hợp lệ
+= Kiểu dữ liệu của một đối số trong công thức không phù hợp với yêu cầu của hàm/toán tử
+}
+Để bật/tắt lưới (Gridlines) trên trang tính, bạn vào thẻ nào?
+{
+~ Home
+~ Insert
+~ Page Layout
+= View
+}
+Để chèn một siêu liên kết (Hyperlink) vào một ô, bạn sử dụng tổ hợp phím nào?
+{
+~ Ctrl + H
+~ Ctrl + L
+~ Ctrl + J
+= Ctrl + K
+}
+Khi nhập dữ liệu kiểu số vào một ô, mặc định dữ liệu sẽ được căn lề như thế nào?
+{
+~ Căn giữa
+~ Căn đều hai bên
+~ Căn trái
+= Căn phải
+}
+Khi nhập dữ liệu kiểu văn bản (text) vào một ô, mặc định dữ liệu sẽ được căn lề như thế nào?
+{
+~ Căn phải
+~ Căn giữa
+~ Căn đều hai bên
+= Căn trái
+}
+Hàm COUNTIF được dùng để làm gì?
+{
+~ Đếm số ô thỏa mãn nhiều điều kiện
+~ Tính tổng các ô thỏa mãn một điều kiện
+~ Đếm tất cả các ô trong một vùng
+= Đếm số ô trong một vùng thỏa mãn một điều kiện cho trước
+}
+Hàm SUMIF được dùng để làm gì?
+{
+~ Tính tổng các ô thỏa mãn nhiều điều kiện
+~ Đếm các ô thỏa mãn một điều kiện
+~ Tính tổng tất cả các ô trong một vùng
+= Tính tổng các ô trong một vùng thỏa mãn một điều kiện cho trước
+}
+Trong hộp thoại Go To (F5 hoặc Ctrl+G), bạn có thể làm gì?
+{
+~ Đi đến một trang tính khác
+~ Đi đến một sổ tính khác
+~ Tìm kiếm một giá trị
+= Đi đến một ô hoặc một vùng được đặt tên cụ thể
+}
+Để sao chép một công thức từ ô A1 sang ô B1, làm thế nào để địa chỉ tham chiếu trong công thức tự động cập nhật?
+{
+~ Sử dụng địa chỉ tuyệt đối ($A$1)
+~ Sử dụng địa chỉ hỗn hợp (A$1)
+~ Copy và Paste Special -> Values
+= Sử dụng địa chỉ tương đối (A1)
+}
+Tính năng "Text to Columns" trong thẻ Data dùng để làm gì?
+{
+~ Nối văn bản từ nhiều cột thành một cột
+~ Chuyển đổi văn bản thành số
+~ Định dạng văn bản trong cột
+= Chia nội dung của một cột văn bản thành nhiều cột riêng biệt
+}
+Để bảo vệ cấu trúc của một sổ tính (Workbook), không cho phép thêm, xóa, đổi tên trang tính, bạn chọn lệnh nào?
+{
+~ File -> Info -> Protect Workbook -> Encrypt with Password
+~ Review -> Protect Sheet
+~ Review -> Allow Edit Ranges
+= Review -> Protect Workbook
+}
+Để ẩn một hoặc nhiều cột, bạn chọn các cột đó và làm gì?
+{
+~ Vào thẻ View -> Hide
+~ Vào thẻ Data -> Group
+~ Nhấn phím Delete
+= Nhấn chuột phải và chọn Hide
+}
+Để hiển thị lại các cột đã bị ẩn, bạn cần làm gì?
+{
+~ Vào thẻ View -> Unhide
+~ Nhấn Ctrl + Z
+~ Nhấn vào nút Group
+= Chọn các cột bao quanh cột bị ẩn, nhấn chuột phải và chọn Unhide
+}
+Phím tắt để lặp lại hành động cuối cùng là gì?
+{
+~ Ctrl + Y
+~ Ctrl + R
+~ F2
+= F4
+}
+Để chèn ngày và giờ hiện tại vào một ô và không tự động cập nhật, bạn sử dụng tổ hợp phím nào?
+{
+~ =NOW()
+~ =TODAY()
+~ Ctrl + ;
+= Ctrl + Shift + ;
+}
+Để chèn ngày tháng hiện tại vào một ô và không tự động cập nhật, bạn sử dụng tổ hợp phím nào?
+{
+~ =TODAY()
+~ Ctrl + Shift + ;
+~ Ctrl + T
+= Ctrl + ;
+}
+Trong Excel, chức năng "Sparklines" dùng để làm gì?
+{
+~ Tạo các đường kẻ trong ô
+~ Tạo biểu đồ chi tiết
+~ Liên kết dữ liệu giữa các bảng
+= Tạo các biểu đồ nhỏ nằm gọn trong một ô để biểu diễn xu hướng dữ liệu
+}
+Hàm AND và OR là các hàm thuộc nhóm nào?
+{
+~ Hàm tìm kiếm
+~ Hàm thống kê
+~ Hàm thời gian
+= Hàm logic
+}
+Công thức =AND(5>3, 2<4) sẽ trả về kết quả gì?
+{
+~ FALSE
+~ 1
+~ #VALUE!
+= TRUE
+}
+Công thức =OR(5<3, 2>4) sẽ trả về kết quả gì?
+{
+~ TRUE
+~ 0
+~ #NAME?
+= FALSE
+}
+Để chọn các ô không liền kề nhau, bạn giữ phím nào trong khi chọn?
+{
+~ Shift
+~ Alt
+~ Tab
+= Ctrl
+}
+Chức năng "Remove Duplicates" trong thẻ Data có công dụng gì?
+{
+~ Tìm kiếm các giá trị trùng lặp
+~ Đánh dấu các giá trị trùng lặp
+~ Ẩn các giá trị trùng lặp
+= Xóa các dòng có dữ liệu trùng lặp
+}
+Để thay đổi thứ tự các trang tính (sheet) trong một sổ tính (workbook), bạn làm gì?
+{
+~ Nhấn chuột phải vào tên trang tính và chọn Move or Copy
+~ Vào thẻ Home và chọn Format -> Move or Copy Sheet
+~ Vào thẻ Page Layout và sắp xếp lại
+= Kéo và thả tên trang tính đến vị trí mới
+}
+Để định dạng số "0.5" thành dạng "50%", bạn cần làm gì?
+{
+~ Nhân số đó với 100
+~ Sử dụng hàm PERCENT()
+~ Vào Format Cells và chọn General
+= Vào Format Cells, chọn Percentage hoặc nhấn nút % trên thẻ Home
+}
+Để xuống dòng trong cùng một ô, bạn nhấn tổ hợp phím nào?
+{
+~ Enter
+~ Ctrl + Enter
+~ Shift + Enter
+= Alt + Enter
+}
+Mục đích của việc đặt tên cho một vùng (Define Name) là gì?
+{
+~ Để làm cho vùng đó nổi bật hơn
+~ Để bảo vệ dữ liệu trong vùng đó
+~ Để ẩn dữ liệu trong vùng đó
+= Để dễ dàng tham chiếu đến vùng đó trong các công thức
+}
+Để đi đến một vùng đã được đặt tên, bạn có thể chọn tên vùng đó từ đâu?
+{
+~ Thanh công thức (Formula Bar)
+~ Thẻ View
+~ Hộp thoại Go To (F5)
+= Hộp tên (Name Box) ở bên trái thanh công thức
+}
+Chức năng "Data Validation" có thể được sử dụng để làm gì?
+{
+~ Kiểm tra lỗi chính tả
+~ Xác thực công thức
+~ Định dạng dữ liệu
+= Giới hạn loại dữ liệu hoặc các giá trị mà người dùng có thể nhập vào một ô
+}
+Trong một bảng tính, làm thế nào để bạn có thể xem được nhiều trang tính cùng một lúc?
+{
+~ Không thể xem nhiều trang tính cùng lúc
+~ Vào thẻ View -> Full Screen
+~ Mở nhiều cửa sổ Excel
+= Vào thẻ View -> New Window, sau đó sắp xếp các cửa sổ bằng Arrange All
+}
+Hàm HLOOKUP tìm kiếm giá trị ở đâu?
+{
+~ Ở cột đầu tiên của bảng dò tìm
+~ Ở bất kỳ cột nào trong bảng dò tìm
+~ Ở bất kỳ hàng nào trong bảng dò tìm
+= Ở hàng đầu tiên của bảng dò tìm
+}
+Để in tiêu đề của bảng tính lặp lại ở mỗi trang in, bạn vào đâu để thiết lập?
+{
+~ Page Layout -> Header & Footer
+~ Insert -> Header & Footer
+~ File -> Print -> Page Setup -> Header/Footer
+= Page Layout -> Print Titles
+}
+Trong hộp thoại "Page Setup", thẻ "Sheet", mục "Rows to repeat at top" dùng để làm gì?
+{
+~ Thiết lập lề trên của trang in
+~ In số thứ tự hàng
+~ Cố định hàng khi cuộn
+= Chọn các dòng tiêu đề sẽ lặp lại ở đầu mỗi trang in
+}
+Hàm CONCATENATE có chức năng tương tự toán tử nào?
+{
+~ +
+~ *
+~ /
+= &
+}
+Để tạo một danh sách thả xuống (drop-down list) trong một ô, bạn sử dụng tính năng nào?
+{
+~ Conditional Formatting
+~ Filter
+~ Sort
+= Data Validation
+}
+Lỗi ##### hiển thị trong một ô có nghĩa là gì?
+{
+~ Ô chứa giá trị lỗi
+~ Công thức bị sai
+~ Dữ liệu kiểu văn bản quá dài
+= Độ rộng của cột không đủ để hiển thị hết nội dung (thường là số hoặc ngày tháng)
+}
+Để sao chép giá trị của một ô thay vì sao chép công thức, bạn sẽ sử dụng lệnh dán nào?
+{
+~ Paste (Ctrl + V)
+~ Paste Formulas
+~ Paste Transpose
+= Paste Special -> Values
+}
+Chức năng "Goal Seek" (trong thẻ Data -> What-If Analysis) dùng để làm gì?
+{
+~ Để giải một hệ phương trình
+~ Để phân tích độ nhạy của mô hình
+~ Để tạo ra các kịch bản khác nhau
+= Để tìm giá trị đầu vào cần thiết cho một công thức để đạt được một kết quả cụ thể
+}
+Để thêm bình luận (comment) vào một ô, bạn có thể nhấn chuột phải vào ô và chọn lệnh nào?
+{
+~ Format Comment
+~ Edit Comment
+~ Delete Comment
+= Insert Comment
+}
+Phím tắt để hiển thị/ẩn thanh công thức (Formula Bar) là gì?
+{
+~ Ctrl + `
+~ Ctrl + Shift + U
+~ Alt + V, F
+= Không có phím tắt mặc định, phải vào thẻ View và chọn/bỏ chọn Formula Bar
+}
+Để chuyển đổi vị trí của hàng và cột (chuyển hàng thành cột và ngược lại) khi dán dữ liệu, bạn dùng tính năng gì của Paste Special?
+{
+~ Values
+~ Formats
+~ Comments
+= Transpose
+}
+Hàm ISBLANK(A1) sẽ trả về giá trị TRUE khi nào?
+{
+~ Ô A1 chứa số 0
+~ Ô A1 chứa một khoảng trắng
+~ Ô A1 chứa công thức trả về chuỗi rỗng ""
+= Ô A1 hoàn toàn không có nội dung
+}
+Để chèn biểu đồ đường (Line chart), mục đích chính là để:
+{
+~ So sánh các giá trị tại một thời điểm
+~ Thể hiện cơ cấu, tỷ lệ
+~ Phân tích mối quan hệ giữa hai biến dữ liệu
+= Thể hiện xu hướng thay đổi của dữ liệu theo thời gian
+}
+Trong Excel, "Chart Title" là gì?
+{
+~ Tên của trục tung
+~ Tên của trục hoành
+~ Chú giải của biểu đồ
+= Tiêu đề của biểu đồ
+}
+Để thêm các nhãn dữ liệu (Data Labels) vào biểu đồ, bạn làm gì?
+{
+~ Nhấn chuột phải vào tiêu đề biểu đồ
+~ Vào thẻ Format
+~ Vào thẻ Design -> Add Chart Element -> Legend
+= Chọn biểu đồ, vào thẻ Design -> Add Chart Element -> Data Labels
+}
+Hàm UPPER("excel") sẽ trả về kết quả là gì?
+{
+~ Excel
+~ eXCEL
+~ "EXCEL"
+= EXCEL
+}
+Hàm LOWER("EXCEL") sẽ trả về kết quả là gì?
+{
+~ Excel
+~ "excel"
+~ eXCEL
+= excel
+}
+Để nhóm (Group) các hàng hoặc cột, bạn sử dụng tính năng nào trong thẻ Data?
+{
+~ Subtotal
+~ Consolidate
+~ Filter
+= Group
+}
+Để xem trang tính ở chế độ xem trước khi ngắt trang (Page Break Preview), bạn vào thẻ nào?
+{
+~ Page Layout
+~ Home
+~ Insert
+= View
+}
+Tổ hợp phím nào được dùng để lưu (save) sổ tính đang làm việc?
+{
+~ Ctrl + P
+~ Ctrl + O
+~ Ctrl + W
+= Ctrl + S
+}
+Tổ hợp phím nào được dùng để đóng cửa sổ chương trình Excel?
+{
+~ Ctrl + W
+~ Ctrl + F4
+~ Esc
+= Alt + F4
+}
+Để chọn tất cả các ô trên một trang tính, bạn có thể nhấn tổ hợp phím nào?
+{
+~ Ctrl + Shift + Space
+~ Shift + Space
+~ Ctrl + Space
+= Ctrl + A
+}
+Khi bạn muốn in một vùng lựa chọn trên bảng tính, bạn chọn tùy chọn nào trong mục Settings của cửa sổ Print?
+{
+~ Print Active Sheets
+~ Print Entire Workbook
+~ Print Selection
+= Print Selection
+}
+Hàm NOW() trả về kết quả gì?
+{
+~ Chỉ ngày hiện tại
+~ Chỉ giờ hiện tại
+~ Một mã số về thời gian
+= Cả ngày và giờ hiện tại của hệ thống
+}
+Công thức =COUNTA(A1:A5) trả về kết quả là 5. Điều này có nghĩa là gì?
+{
+~ Tất cả các ô từ A1 đến A5 đều chứa số
+~ Tổng các giá trị từ A1 đến A5 là 5
+~ Có 5 ô trống trong vùng A1:A5
+= Cả 5 ô từ A1 đến A5 đều không rỗng
+}
+Công thức =IF(A1>10, "Lớn", "Nhỏ") sẽ trả về kết quả "Nhỏ" khi nào?
+{
+~ Khi giá trị ô A1 lớn hơn 10
+~ Khi giá trị ô A1 bằng 10
+~ Khi ô A1 rỗng
+= Khi giá trị ô A1 nhỏ hơn hoặc bằng 10
+}
+Để kiểm tra chính tả trong Excel, bạn vào thẻ nào?
+{
+~ Home
+~ Insert
+~ Data
+= Review
+}
+Địa chỉ ô trong Excel được xác định bởi:
+{
+~ Tên cột và tên hàng
+~ Số thứ tự cột và tên hàng
+~ Tên cột và số thứ tự hàng
+= Tên cột và số thứ tự hàng
+}
+Để thay đổi độ rộng của cột cho vừa với dữ liệu dài nhất trong cột đó, bạn có thể làm gì?
+{
+~ Kéo thủ công đường biên của cột
+~ Vào Format -> Column Width
+~ Nhấn chuột phải vào cột và chọn Column Width
+= Nhấn đúp chuột vào đường biên bên phải của tiêu đề cột
+}
+Để sao chép một trang tính sang một sổ tính mới, bạn nhấn chuột phải vào tên trang tính, chọn "Move or Copy...", sau đó trong hộp thoại bạn sẽ làm gì?
+{
+~ Chọn tên sổ tính hiện tại ở mục "To book"
+~ Bỏ chọn ô "Create a copy"
+~ Chọn "(move to end)"
+= Chọn "(new book)" ở mục "To book" và đánh dấu vào ô "Create a copy"
+}
+Chức năng "Fill Handle" (tay nắm điền dữ liệu) là hình vuông nhỏ ở góc dưới bên phải của ô đang chọn, nó dùng để làm gì?
+{
+~ Di chuyển ô
+~ Thay đổi kích thước ô
+~ Xóa nội dung ô
+= Sao chép nội dung hoặc công thức, hoặc tạo một chuỗi dữ liệu
+}
+Thanh trạng thái (Status Bar) ở cuối cửa sổ Excel có thể hiển thị thông tin gì về vùng dữ liệu đang chọn?
+{
+~ Tên vùng
+~ Font chữ
+~ Màu nền
+= Trung bình (Average), Số lượng (Count), Tổng (Sum)
+}
+Hàm ROUNDUP(7.2) sẽ cho kết quả là bao nhiêu? (không chỉ định số chữ số thập phân)
+{
+~ 7
+~ 7.2
+~ 7.5
+= 8
+}
+Hàm ROUNDDOWN(7.8) sẽ cho kết quả là bao nhiêu? (không chỉ định số chữ số thập phân)
+{
+~ 8
+~ 7.5
+~ 7.8
+= 7
+}
+Để tạo một Template (mẫu) trong Excel, bạn cần lưu tệp với định dạng nào?
+{
+~ .xlsx
+~ .xlsb
+~ .xlsm
+= .xltx
+}
+Khi một công thức tham chiếu đến một ô trong một trang tính khác, cú pháp thường là:
+{
+~ [TênTrangTính]!ĐịaChỉÔ
+~ (TênTrangTính)!ĐịaChỉÔ
+~ {TênTrangTính}!ĐịaChỉÔ
+= TênTrangTính!ĐịaChỉÔ
+}
+Chức năng "Format as Table" trong thẻ Home có lợi ích gì?
+{
+~ Chỉ để làm đẹp cho bảng dữ liệu
+~ Chỉ để thêm các bộ lọc
+~ Chỉ để định dạng màu sắc
+= Tự động áp dụng định dạng, thêm các bộ lọc, và giúp quản lý dữ liệu có cấu trúc dễ dàng hơn
+}
+Để chèn một dòng ngắt trang (Page Break) thủ công, bạn đặt con trỏ ô vào nơi muốn bắt đầu trang mới và vào đâu?
+{
+~ Insert -> Page Break
+~ Home -> Page Break
+~ View -> Page Break
+= Page Layout -> Breaks -> Insert Page Break
+}
+Khi bạn khóa một ô (Locked) trong hộp thoại Format Cells, điều gì sẽ xảy ra?
+{
+~ Ô đó không thể chỉnh sửa
+~ Nội dung ô đó bị ẩn
+~ Không có gì xảy ra ngay lập tức
+= Ô đó sẽ không thể chỉnh sửa sau khi bạn bật chức năng Protect Sheet
+}
+Tổ hợp phím nào dùng để mở hộp thoại Format Cells?
+{
+~ Ctrl + F
+~ Ctrl + Shift + 1
+~ Alt + O, E
+= Ctrl + 1
+}
+Toán tử "^" trong công thức Excel dùng để làm gì?
+{
+~ Phép nhân
+~ Phép nối chuỗi
+~ Phép so sánh
+= Phép lũy thừa
+}
+Công thức =2^3 trả về kết quả là bao nhiêu?
+{
+~ 6
+~ 5
+~ 9
+= 8
+}
+Chế độ xem "Page Layout" trong thẻ View cho phép bạn thấy điều gì?
+{
+~ Chỉ dữ liệu của trang tính
+~ Cấu trúc công thức
+~ Một danh sách các trang tính
+= Trang tính hiển thị như khi được in ra, bao gồm cả đầu trang, chân trang và lề
+}
+Làm thế nào để hiển thị công thức trong các ô thay vì giá trị kết quả?
+{
+~ Vào thẻ View và chọn Show Formulas
+~ Vào File -> Options
+~ Nhấn F9
+= Nhấn tổ hợp phím Ctrl + ` (dấu huyền)
+}
+Hàm PROPER("nguyen van a") sẽ trả về kết quả là gì?
+{
+~ NGUYEN VAN A
+~ Nguyen van a
+~ Nguyen Van a
+= Nguyen Van A
+}
+Để xóa bỏ định dạng của một vùng dữ liệu nhưng vẫn giữ lại nội dung, bạn chọn lệnh nào trong thẻ Home -> Editing -> Clear?
+{
+~ Clear All
+~ Clear Contents
+~ Clear Comments
+= Clear Formats
+}
+Để xóa bỏ cả nội dung và định dạng của một vùng dữ liệu, bạn chọn lệnh nào trong thẻ Home -> Editing -> Clear?
+{
+~ Clear Formats
+~ Clear Contents
+~ Clear Hyperlinks
+= Clear All
+}
+Tính năng "Trace Precedents" (trong thẻ Formulas) giúp bạn làm gì?
+{
+~ Hiển thị các ô bị ảnh hưởng bởi ô hiện tại
+~ Đánh giá một công thức
+~ Kiểm tra lỗi trong công thức
+= Hiển thị các mũi tên chỉ đến các ô cung cấp dữ liệu cho công thức trong ô hiện tại
+}
+Tính năng "Trace Dependents" (trong thẻ Formulas) giúp bạn làm gì?
+{
+~ Hiển thị các ô cung cấp dữ liệu cho ô hiện tại
+~ Gỡ bỏ các mũi tên theo dõi
+~ Kiểm tra lỗi
+= Hiển thị các mũi tên chỉ đến các ô bị ảnh hưởng bởi giá trị trong ô hiện tại
+}
+Trong hộp thoại "Sort", bạn có thể sắp xếp dữ liệu dựa trên tối đa bao nhiêu cấp (level)?
+{
+~ 3
+~ 8
+~ 32
+= 64
+}
+Để in các đường lưới (Gridlines) của bảng tính, bạn cần làm gì?
+{
+~ Chúng luôn được in mặc định
+~ Vào View và chọn Gridlines
+~ Vào Format -> Cells -> Border
+= Vào Page Layout, trong nhóm Sheet Options, đánh dấu vào ô Print dưới mục Gridlines
+}
+Để in tiêu đề cột và hàng (ví dụ: A, B, C... và 1, 2, 3...), bạn cần làm gì?
+{
+~ Không thể in được
+~ Phải gõ thủ công vào Header/Footer
+~ Vào View và chọn Headings
+= Vào Page Layout, trong nhóm Sheet Options, đánh dấu vào ô Print dưới mục Headings
+}
+Chức năng Consolidate trong thẻ Data được sử dụng để:
+{
+~ Tạo một bảng tổng hợp
+~ Chia dữ liệu thành các nhóm
+~ Lọc dữ liệu từ nhiều nguồn
+= Tổng hợp dữ liệu từ nhiều vùng hoặc nhiều trang tính vào một nơi duy nhất
+}
+Để tạo một kịch bản (Scenario) trong Excel, bạn vào đâu?
+{
+~ Data -> Forecast Sheet
+~ Data -> Subtotal
+~ Insert -> Scenario
+= Data -> What-If Analysis -> Scenario Manager
+}
+Một sổ tính (workbook) trong Excel là gì?
+{
+~ Một trang tính duy nhất
+~ Một bảng dữ liệu
+~ Một biểu đồ
+= Một tệp tin chứa một hoặc nhiều trang tính (worksheets)
+}
+Phím tắt nào dùng để tô đậm (Bold) chữ trong ô?
+{
+~ Ctrl + I
+~ Ctrl + U
+~ Ctrl + D
+= Ctrl + B
+}
+Phím tắt nào dùng để in nghiêng (Italic) chữ trong ô?
+{
+~ Ctrl + B
+~ Ctrl + U
+~ Ctrl + N
+= Ctrl + I
+}
+Phím tắt nào dùng để gạch chân (Underline) chữ trong ô?
+{
+~ Ctrl + B
+~ Ctrl + I
+~ Ctrl + G
+= Ctrl + U
+}
+Khi sao chép công thức chứa địa chỉ hỗn hợp $A1 từ ô B1 sang ô C2, công thức sẽ trở thành:
+{
+~ =$A$1
+~ =$B2
+~ =A$1
+= =$A2
+}
+Để chọn một vùng dữ liệu hiện tại (current region) xung quanh ô đang chọn, bạn có thể dùng tổ hợp phím nào?
+{
+~ Ctrl + A
+~ Ctrl + Shift + Mũi tên
+~ Ctrl + G
+= Ctrl + Shift + * (hoặc Ctrl + A một lần)
+}
+Nếu bạn nhập "1/2" vào một ô và Excel hiểu đó là ngày "2 tháng 1", để nhập đúng giá trị phân số "1/2", bạn cần nhập như thế nào?
+{
+~ '1/2
+~ "1/2"
+~ =1/2
+= 0 1/2
+}
+Hàm nào sau đây dùng để trả về số thứ tự của tuần trong năm?
+{
+~ WEEKDAY
+~ DAY
+~ YEAR
+= WEEKNUM
+}
+Trong Excel, một biểu đồ được nhúng (embedded chart) là:
+{
+~ Một biểu đồ nằm trên một trang tính riêng (Chart Sheet)
+~ Một biểu đồ được liên kết từ một tệp khác
+~ Một biểu đồ không thể chỉnh sửa
+= Một biểu đồ được đặt trên cùng một trang tính với dữ liệu của nó
+}
+ 
+SỬ DỤNG TRÌNH CHIẾU CƠ BẢN
+"SmartArt" là công cụ dùng để làm gì?
+{
+~ Chèn các biểu tượng icon.
+~ Tạo hiệu ứng hoạt hình.
+~ Vẽ các đường thẳng.
+= Tạo các sơ đồ, lưu đồ một cách trực quan và chuyên nghiệp.
+}
+Để chèn một video từ máy tính vào slide, bạn chọn?
+{
+~ Insert -> Audio
+~ Insert -> Pictures
+~ Insert -> Screenshot
+= Insert -> Video -> This Device
+}
+Để chèn một đoạn âm thanh (Audio) vào slide, bạn vào đâu?
+{
+~ Home -> Audio
+~ Design -> Audio
+~ Animations -> Audio
+= Insert -> Audio
+}
+Hiệu ứng chuyển tiếp (Transition) là gì?
+{
+~ Hiệu ứng xuất hiện cho các đối tượng trên một slide.
+~ Âm thanh phát ra khi trình chiếu.
+~ Cách một slide kết thúc.
+= Hiệu ứng hình ảnh khi chuyển từ slide này sang slide kế tiếp.
+}
+Để thêm hiệu ứng chuyển tiếp cho slide, bạn chọn thẻ nào?
+{
+~ Animations
+~ Slide Show
+~ Home
+= Transitions
+}
+Trong thẻ Transitions, "Effect Options" dùng để làm gì?
+{
+~ Thay đổi thời gian của hiệu ứng.
+~ Thêm âm thanh cho hiệu ứng.
+~ Áp dụng hiệu ứng cho tất cả slide.
+= Tùy chỉnh hướng hoặc các kiểu khác nhau của hiệu ứng đã chọn.
+}
+Để áp dụng một hiệu ứng chuyển tiếp cho tất cả các slide trong bài trình chiếu, bạn nhấn vào nút nào sau khi đã chọn hiệu ứng?
+{
+~ Preview
+~ Effect Options
+~ On Mouse Click
+= Apply to All
+}
+Hiệu ứng hoạt hình (Animation) trong PowerPoint là gì?
+{
+~ Hiệu ứng chuyển giữa các slide.
+~ Hình nền động cho slide.
+~ Một loại biểu đồ.
+= Hiệu ứng chuyển động cho các đối tượng (văn bản, hình ảnh,...) bên trong một slide.
+}
+Để tạo hiệu ứng cho một đối tượng, đầu tiên bạn phải làm gì?
+{
+~ Chọn thẻ Transitions.
+~ Chạy trình chiếu.
+~ Chọn một slide bất kỳ.
+= Chọn đối tượng (văn bản, hình ảnh,...) muốn tạo hiệu ứng.
+}
+Sau khi chọn đối tượng, bạn vào thẻ nào để thêm hiệu ứng hoạt hình?
+{
+~ Insert
+~ Design
+~ Transitions
+= Animations
+}
+Có mấy nhóm hiệu ứng Animation chính?
+{
+~ 2 nhóm: Entrance và Exit.
+~ 3 nhóm: Entrance, Emphasis và Exit.
+~ 1 nhóm: Motion Paths.
+= 4 nhóm: Entrance, Emphasis, Exit và Motion Paths.
+}
+Hiệu ứng "Fly In" thuộc nhóm hiệu ứng nào?
+{
+~ Emphasis
+~ Exit
+~ Motion Paths
+= Entrance
+}
+Để xem trước các hiệu ứng hoạt hình trên slide hiện tại, bạn có thể nhấn vào nút nào trong thẻ Animations?
+{
+~ Effect Options
+~ Add Animation
+~ Animation Pane
+= Preview
+}
+"Animation Pane" (Khung hoạt hình) có chức năng gì?
+{
+~ Thêm hiệu ứng mới.
+~ Xóa tất cả hiệu ứng.
+~ Thay đổi thiết kế của slide.
+= Hiển thị danh sách các hiệu ứng trên slide và cho phép thay đổi thứ tự, thời gian của chúng.
+}
+Trong Animation Pane, làm thế nào để một hiệu ứng bắt đầu cùng lúc với hiệu ứng trước đó?
+{
+~ Chọn "Start On Click".
+~ Tăng thời gian "Duration".
+~ Tăng thời gian "Delay".
+= Chọn "Start With Previous".
+}
+"Trigger" (Kích hoạt) trong Animations có tác dụng gì?
+{
+~ Làm cho hiệu ứng lặp lại.
+~ Xóa bỏ hiệu ứng.
+~ Bắt đầu hiệu ứng sau một khoảng thời gian.
+= Làm cho một hiệu ứng bắt đầu khi bạn nhấp vào một đối tượng cụ thể nào đó.
+}
+Chức năng của "Slide Master" là gì?
+{
+~ Để tạo một bản sao của bài trình chiếu.
+~ Để chạy trình chiếu tự động.
+~ Để thêm ghi chú cho diễn giả.
+= Để thay đổi, tùy chỉnh định dạng chung (font chữ, màu sắc, logo...) cho tất cả các slide theo một layout nhất định.
+}
+Để truy cập vào chế độ xem "Slide Master", bạn vào thẻ nào?
+{
+~ Home
+~ Design
+~ Slide Show
+= View
+}
+Trong Slide Master, việc thay đổi trên slide trên cùng (slide to nhất) sẽ ảnh hưởng đến?
+{
+~ Chỉ slide đó.
+~ Chỉ các slide có layout "Title Slide".
+~ Chỉ các slide mới được tạo ra.
+= Tất cả các slide layout bên dưới nó.
+}
+Lợi ích chính của việc sử dụng Slide Master là gì?
+{
+~ Làm cho tệp trình chiếu nặng hơn.
+~ Tạo ra nhiều hiệu ứng phức tạp.
+~ Giúp bài trình chiếu có nhiều slide hơn.
+= Đảm bảo tính nhất quán về định dạng trong toàn bộ bài trình chiếu và tiết kiệm thời gian chỉnh sửa.
+}
+Để chèn số trang vào tất cả các slide, cách hiệu quả nhất là gì?
+{
+~ Gõ số trang thủ công vào từng slide.
+~ Dùng Text Box để thêm số trang.
+~ Chèn vào Slide Master.
+= Vào Insert -> Header & Footer -> Chọn Slide number.
+}
+Trong hộp thoại "Header and Footer", bạn có thể chèn những gì vào slide?
+{
+~ Chỉ có ngày tháng.
+~ Chỉ có số slide.
+~ Chỉ có Footer.
+= Ngày tháng, số slide và nội dung Footer.
+}
+Để không hiển thị số trang và footer ở slide tiêu đề, bạn cần làm gì trong hộp thoại "Header and Footer"?
+{
+~ Bỏ chọn "Slide number".
+~ Xóa nội dung trong ô "Footer".
+~ Nhấn nút "Apply".
+= Đánh dấu vào ô "Don't show on title slide".
+}
+Chức năng "Notes Page" (Trang ghi chú) trong PowerPoint dùng để làm gì?
+{
+~ Viết nội dung trực tiếp lên slide.
+~ Tạo ghi chú cho khán giả xem.
+~ Thêm bình luận để người khác sửa.
+= Thêm các ghi chú, lời nhắc cho người thuyết trình mà khán giả không nhìn thấy khi trình chiếu.
+}
+Để xem và chỉnh sửa ghi chú của diễn giả, bạn có thể vào chế độ xem nào?
+{
+~ Slide Sorter
+~ Reading View
+~ Slide Show
+= Normal View (khung ghi chú ở dưới) hoặc Notes Page View
+}
+Khi đang trình chiếu, làm thế nào để xem ghi chú của diễn giả trên màn hình của mình (nếu có 2 màn hình)?
+{
+~ Nhấn phím N.
+~ Nhấn phím P.
+~ Nhấn chuột phải và chọn Notes.
+= Sử dụng chế độ xem "Presenter View".
+}
+Để tạo một siêu liên kết (Hyperlink) cho một văn bản hoặc hình ảnh, bạn làm gì?
+{
+~ Vào thẻ Insert -> Link.
+~ Nhấn tổ hợp phím Ctrl + H.
+~ Nhấn chuột phải và chọn Format.
+= Chọn đối tượng, nhấn chuột phải và chọn Link hoặc nhấn Ctrl + K.
+}
+Một siêu liên kết có thể trỏ đến đâu?
+{
+~ Chỉ một trang web.
+~ Chỉ một slide khác trong bài trình chiếu.
+~ Chỉ một địa chỉ email.
+= Một trang web, một slide khác, một tệp tin khác hoặc một địa chỉ email.
+}
+"Action Buttons" (Nút hành động) là gì?
+{
+~ Là các nút để định dạng văn bản.
+~ Là các nút để thay đổi theme.
+~ Là các nút để thêm hiệu ứng.
+= Là các hình khối được tạo sẵn để gán các hành động như đi tới slide kế tiếp, quay lại, v.v.
+}
+Bạn có thể tìm thấy "Action Buttons" ở đâu?
+{
+~ Thẻ Insert -> SmartArt
+~ Thẻ Home -> Drawing
+~ Thẻ Animations -> Advanced Animation
+= Thẻ Insert -> Shapes -> Action Buttons (ở cuối danh sách)
+}
+Để kiểm tra chính tả trong bài trình chiếu, bạn vào thẻ nào?
+{
+~ Home
+~ Insert
+~ View
+= Review
+}
+Chức năng nào trong thẻ Review giúp bạn kiểm tra chính tả?
+{
+~ Thesaurus
+~ Translate
+~ New Comment
+= Spelling
+}
+Trước khi in, bạn nên xem trước bài trình chiếu ở chế độ nào để đảm bảo nội dung và bố cục đúng ý muốn?
+{
+~ Normal View
+~ Slide Sorter
+~ Reading View
+= Print Preview (xem trước khi in)
+}
+Để mở giao diện in ấn, bạn chọn thao tác nào?
+{
+~ File -> Save
+~ File -> Share
+~ Ctrl + S
+= File -> Print (hoặc Ctrl + P)
+}
+Trong cài đặt in, mục "Print All Slides" cho phép bạn làm gì?
+{
+~ Chỉ in slide hiện tại.
+~ Chỉ in các slide đã chọn.
+~ Chỉ in một phạm vi slide tùy chỉnh.
+= In toàn bộ các slide trong bài trình chiếu.
+}
+Tùy chọn "Full Page Slides" trong phần cài đặt in có nghĩa là gì?
+{
+~ In nhiều slide trên một trang.
+~ In slide cùng với ghi chú.
+~ In slide dưới dạng dàn bài.
+= In mỗi slide trên một trang giấy đầy đủ.
+}
+Để in nhiều slide trên một trang giấy (ví dụ 6 slide), bạn chọn tùy chọn nào trong phần Settings?
+{
+~ Full Page Slides
+~ Notes Pages
+~ Outline
+= Handouts (ví dụ: 6 Slides Horizontal)
+}
+Chức năng "Rehearse Timings" (Tập dượt thời gian) trong thẻ Slide Show có tác dụng gì?
+{
+~ Ghi lại lời thoại của bạn.
+~ Kiểm tra chính tả và ngữ pháp.
+~ Thiết lập hiệu ứng hoạt hình.
+= Ghi lại thời gian bạn dành cho mỗi slide khi bạn tập thuyết trình.
+}
+Để thiết lập một bài trình chiếu tự động lặp lại liên tục, bạn vào đâu?
+{
+~ Thẻ Transitions -> After.
+~ Thẻ Animations -> Timing.
+~ Thẻ View -> Slide Master.
+= Thẻ Slide Show -> Set Up Slide Show -> Loop continuously until 'Esc'.
+}
+Tổ hợp phím để nhân đôi (duplicate) một đối tượng đã chọn là gì?
+{
+~ Ctrl + C
+~ Ctrl + X
+~ Ctrl + V
+= Ctrl + D
+}
+Làm thế nào để thay đổi kích thước của một hình ảnh mà vẫn giữ nguyên tỷ lệ?
+{
+~ Kéo các điểm điều khiển ở cạnh trên hoặc cạnh bên.
+~ Nhập kích thước mới vào ô Height và Width.
+~ Sử dụng công cụ Crop.
+= Giữ phím Shift trong khi kéo một trong các điểm điều khiển ở góc.
+}
+Chức năng "Align" (Căn chỉnh) trong thẻ Shape Format/Picture Format dùng để làm gì?
+{
+~ Căn lề cho văn bản trong Textbox.
+~ Thay đổi thứ tự lớp của các đối tượng.
+~ Thay đổi màu sắc đối tượng.
+= Căn chỉnh các đối tượng với nhau hoặc với slide (ví dụ: căn giữa, trên, dưới).
+}
+Để đưa một đối tượng lên trên một lớp so với đối tượng khác, bạn chọn?
+{
+~ Send Backward
+~ Send to Back
+~ Group
+= Bring Forward
+}
+Để thay đổi màu nền cho một slide duy nhất, bạn làm gì?
+{
+~ Vào Design -> chọn một Theme mới.
+~ Vào View -> Slide Master.
+~ Vào Insert -> Background.
+= Nhấn chuột phải vào vùng trống của slide, chọn Format Background.
+}
+Định dạng tệp tin nào cho phép lưu bài trình chiếu thành một chuỗi các hình ảnh?
+{
+~ PDF
+~ MP4
+~ WMV
+= JPEG hoặc PNG
+}
+Khi lưu bài trình chiếu dưới dạng "PowerPoint Show (*.ppsx)", điều gì sẽ xảy ra khi bạn mở tệp tin đó?
+{
+~ Mở ra ở chế độ chỉnh sửa Normal View.
+~ Mở ra ở chế độ xem Slide Sorter.
+~ Yêu cầu mật khẩu để mở.
+= Tự động chạy ở chế độ trình chiếu (Slide Show).
+}
+Chế độ xem "Reading View" có đặc điểm gì?
+{
+~ Cho phép chỉnh sửa nội dung slide.
+~ Hiển thị tất cả slide dưới dạng thu nhỏ.
+~ Tối ưu cho việc in ấn.
+= Hiển thị bài trình chiếu trong một cửa sổ với các nút điều khiển đơn giản, tương tự Slide Show nhưng không toàn màn hình.
+}
+Để chèn một bảng (Table) vào slide, bạn chọn?
+{
+~ Insert -> SmartArt
+~ Insert -> Chart
+~ Insert -> Shapes
+= Insert -> Table
+}
+Làm thế nào để hợp nhất (Merge) các ô trong một bảng?
+{
+~ Chọn các ô và nhấn Delete.
+~ Vào thẻ Table Design -> Shading.
+~ Kéo đường viền giữa các ô.
+= Chọn các ô cần hợp nhất, vào thẻ Table Layout, chọn Merge Cells.
+}
+Để thay đổi màu nền cho các ô trong bảng, bạn chọn công cụ nào trong thẻ Table Design?
+{
+~ Borders
+~ Effects
+~ Pen Color
+= Shading
+}
+Công cụ "Eyedropper" (ống hút màu) trong các tùy chọn màu sắc dùng để làm gì?
+{
+~ Vẽ một hình ống hút.
+~ Làm cho màu sắc trong suốt.
+~ Chọn một màu từ bảng màu có sẵn.
+= Lấy một mẫu màu từ bất kỳ đâu trên màn hình của bạn để áp dụng.
+}
+Để thêm một bình luận (Comment) vào một đối tượng, bạn vào thẻ nào?
+{
+~ Home
+~ Insert
+~ View
+= Review
+}
+Trong thẻ View, chức năng "Ruler" (Thước kẻ) có tác dụng gì?
+{
+~ Đo khoảng cách giữa các slide.
+~ Thay đổi kích thước slide.
+~ Kẻ một đường thẳng trên slide.
+= Hiển thị thước kẻ ngang và dọc để giúp căn chỉnh các đối tượng.
+}
+Chức năng "Gridlines" (Đường lưới) trong thẻ View giúp gì?
+{
+~ Tạo một bảng biểu.
+~ Vẽ một biểu đồ lưới.
+~ Chia slide thành các cột.
+= Hiển thị các đường lưới mờ để căn chỉnh các đối tượng chính xác hơn.
+}
+Phím tắt nào để hoàn tác (Undo) thao tác vừa thực hiện?
+{
+~ Ctrl + Y
+~ Ctrl + X
+~ Ctrl + C
+= Ctrl + Z
+}
+Tổ hợp phím Ctrl + Y có chức năng gì?
+{
+~ Dán nội dung.
+~ Cắt nội dung.
+~ Sao chép nội dung.
+= Làm lại (Redo) thao tác vừa hoàn tác (Undo).
+}
+Để thay đổi hướng của slide (ví dụ từ ngang sang dọc), bạn vào đâu?
+{
+~ View -> Slide Orientation
+~ File -> Page Setup
+~ Home -> Layout
+= Design -> Slide Size -> Custom Slide Size
+}
+Khi bạn chèn một video, tùy chọn "Play Full Screen" có nghĩa là gì?
+{
+~ Video sẽ phát lặp lại.
+~ Video sẽ tự động phát.
+~ Video sẽ bị cắt để vừa màn hình.
+= Video sẽ phát toàn màn hình khi được nhấp vào lúc trình chiếu.
+}
+Để tạo một mục lục có thể nhấp vào để di chuyển đến các slide tương ứng, bạn nên sử dụng tính năng nào?
+{
+~ SmartArt
+~ Bookmarks
+~ Comments
+= Hyperlinks
+}
+Muốn một đoạn âm thanh phát liên tục qua nhiều slide, bạn cần thiết lập ở đâu?
+{
+~ Trong thẻ Transitions.
+~ Trong thẻ Insert.
+~ Trong Animation Pane, chọn "Start with Previous".
+= Trong thẻ Playback của Audio, chọn "Play across slides".
+}
+Để ẩn một slide để nó không xuất hiện khi trình chiếu, bạn làm gì?
+{
+~ Xóa slide đó.
+~ Di chuyển slide đó xuống cuối cùng.
+~ Thay đổi layout của slide.
+= Nhấn chuột phải vào slide và chọn "Hide Slide".
+}
+Khi một slide bị ẩn, nó sẽ trông như thế nào trong chế độ xem Normal hoặc Slide Sorter?
+{
+~ Hoàn toàn biến mất.
+~ Có màu nền khác.
+~ Có một biểu tượng ngôi sao bên cạnh.
+= Số của slide đó bị gạch chéo hoặc mờ đi.
+}
+Chức năng "Zoom" trong thẻ Insert cho phép bạn làm gì?
+{
+~ Phóng to toàn bộ giao diện PowerPoint.
+~ Thay đổi kích thước phông chữ.
+~ Phóng to một hình ảnh.
+= Tạo một hiệu ứng chuyển động tương tác, cho phép phóng to vào các section hoặc slide cụ thể.
+}
+Để thay đổi thứ tự của các hiệu ứng hoạt hình trong một slide, bạn làm gì?
+{
+~ Xóa và tạo lại các hiệu ứng theo đúng thứ tự.
+~ Vào thẻ Animations -> Timing.
+~ Chọn các đối tượng theo thứ tự mong muốn.
+= Sử dụng Animation Pane và kéo thả các hiệu ứng hoặc dùng nút Re-order.
+}
+Trong PowerPoint, bạn có thể xuất bài trình chiếu của mình thành định dạng video nào?
+{
+~ .AVI
+~ .MOV
+~ .FLV
+= .MP4 hoặc .WMV
+}
+Mục đích của việc sử dụng "Sections" (Phân đoạn) trong bài trình chiếu là gì?
+{
+~ Để thêm nhiều slide hơn.
+~ Để thay đổi màu sắc.
+~ Để tạo hiệu ứng.
+= Để tổ chức và quản lý các slide thành từng nhóm logic, giúp dễ dàng điều hướng và tùy chỉnh.
+}
+Để tạo một Section mới, bạn làm gì?
+{
+~ Vào thẻ Insert -> Section.
+~ Kéo thả các slide vào nhau.
+~ Vào thẻ View -> Section.
+= Nhấn chuột phải vào khoảng trống giữa hai slide và chọn "Add Section".
+}
+Để chèn Header và Footer cho trang ghi chú (Notes) và trang phát cho khán giả (Handouts), bạn phải vào đâu?
+{
+~ Thẻ View -> Notes Master
+~ Thẻ Insert -> Text Box
+~ Thẻ File -> Print
+= Thẻ Insert -> Header & Footer -> chọn tab "Notes and Handouts"
+}
+Phím tắt để mở hộp thoại Font là gì?
+{
+~ Ctrl + F
+~ Ctrl + B
+~ Ctrl + Shift + P
+= Ctrl + T (hoặc Ctrl + Shift + F)
+}
+Để sao chép định dạng của một đối tượng, sau khi chọn đối tượng nguồn và nhấp vào Format Painter, bạn làm gì tiếp theo để áp dụng cho nhiều đối tượng khác nhau?
+{
+~ Nhấp vào từng đối tượng.
+~ Giữ phím Ctrl và nhấp.
+~ Giữ phím Alt và nhấp.
+= Nháy đúp chuột vào Format Painter rồi nhấp vào từng đối tượng.
+}
+Làm thế nào để vẽ một hình vuông hoặc hình tròn hoàn hảo bằng công cụ Shapes?
+{
+~ Vẽ tự do và cố gắng căn chỉnh.
+~ Nhập kích thước bằng nhau vào ô Height và Width.
+~ Giữ phím Ctrl trong khi vẽ.
+= Giữ phím Shift trong khi vẽ hình chữ nhật hoặc hình elip.
+}
+Chức năng "Remove Background" trên một hình ảnh có tác dụng gì?
+{
+~ Làm cho toàn bộ hình ảnh trong suốt.
+~ Thay đổi màu nền của slide.
+~ Xóa các đối tượng khác xung quanh hình ảnh.
+= Tự động xóa phần nền của hình ảnh, giữ lại chủ thể chính.
+}
+Trong phần cài đặt hiệu ứng chuyển tiếp (Transitions), tùy chọn "On Mouse Click" có ý nghĩa gì?
+{
+~ Slide sẽ chuyển sau khi nhấp vào một đối tượng cụ thể.
+~ Phải nhấp chuột phải để chuyển slide.
+~ Một âm thanh click chuột sẽ phát ra.
+= Slide tiếp theo sẽ chỉ xuất hiện khi bạn nhấp chuột.
+}
+Tùy chọn "After" trong phần cài đặt hiệu ứng chuyển tiếp (Transitions) có ý nghĩa gì?
+{
+~ Slide sẽ chuyển sau khi tất cả hiệu ứng hoạt hình kết thúc.
+~ Slide sẽ chuyển sau khi video kết thúc.
+~ Chỉ hoạt động sau khi nhấp chuột.
+= Slide sẽ tự động chuyển sang slide kế tiếp sau một khoảng thời gian được thiết lập.
+}
+Hiệu ứng hoạt hình thuộc nhóm "Exit" có tác dụng gì?
+{
+~ Làm đối tượng xuất hiện trên slide.
+~ Nhấn mạnh đối tượng.
+~ Di chuyển đối tượng theo một đường đi.
+= Làm cho đối tượng biến mất khỏi slide.
+}
+Hiệu ứng hoạt động thuộc nhóm "Emphasis" có tác dụng gì?
+{
+~ Làm đối tượng xuất hiện.
+~ Làm đối tượng biến mất.
+~ Di chuyển đối tượng.
+= Làm nổi bật đối tượng đã có sẵn trên slide (ví dụ: thay đổi màu sắc, xoay).
+}
+Để chèn ký tự đặc biệt như ©, ®, ™ vào văn bản, bạn vào đâu?
+{
+~ Home -> Font
+~ Design -> Symbols
+~ Review -> Symbols
+= Insert -> Symbol
+}
+Trong chế độ Presenter View, màn hình của khán giả sẽ hiển thị gì?
+{
+~ Giao diện Presenter View giống hệt của bạn.
+~ Màn hình desktop của bạn.
+~ Ghi chú và slide tiếp theo.
+= Chỉ có slide đang được trình chiếu ở chế độ toàn màn hình.
+}
+Công cụ "Thesaurus" (Từ điển đồng nghĩa) trong thẻ Review dùng để làm gì?
+{
+~ Dịch văn bản sang ngôn ngữ khác.
+~ Kiểm tra lỗi chính tả.
+~ Đếm số từ trong bài.
+= Tìm các từ đồng nghĩa hoặc trái nghĩa cho một từ đã chọn.
+}
+Làm thế nào để thay đổi nhanh bố cục (layout) của một slide đã có nội dung?
+{
+~ Xóa slide và tạo lại.
+~ Sao chép và dán nội dung sang slide mới.
+~ Vào thẻ Design -> Layout.
+= Nhấn chuột phải vào slide, chọn "Layout" và chọn một bố cục mới.
+}
+Tùy chọn "Bring to Front" có tác dụng gì với đối tượng được chọn?
+{
+~ Đưa đối tượng ra phía trước văn bản.
+~ Phóng to đối tượng.
+~ Sao chép đối tượng.
+= Đưa đối tượng lên lớp trên cùng, che tất cả các đối tượng khác.
+}
+Tùy chọn "Send to Back" có tác dụng gì với đối tượng được chọn?
+{
+~ Đưa đối tượng về vị trí cũ.
+~ Xóa đối tượng.
+~ Thu nhỏ đối tượng.
+= Đưa đối tượng xuống lớp dưới cùng, bị tất cả các đối tượng khác che.
+}
+Để lưu bài trình chiếu thành một tệp PDF, bạn làm gì?
+{
+~ Vào File -> Print và chọn máy in PDF.
+~ Đổi đuôi tệp tin từ .pptx thành .pdf.
+~ Vào File -> Share.
+= Vào File -> Save As (hoặc Export) và chọn định dạng PDF.
+}
+Để chèn số thứ tự cho một danh sách, bạn sử dụng công cụ nào trong thẻ Home?
+{
+~ Bullets
+~ Align Text
+~ Columns
+= Numbering
+}
+Để tăng cấp của một mục trong danh sách (thụt lề vào trong), bạn nhấn phím nào?
+{
+~ Shift + Tab
+~ Enter
+~ Backspace
+= Tab
+}
+Để giảm cấp của một mục trong danh sách (đẩy lề ra ngoài), bạn nhấn phím nào?
+{
+~ Tab
+~ Enter
+~ Spacebar
+= Shift + Tab
+}
+Chức năng "New Slide" trong thẻ Home cho phép bạn làm gì?
+{
+~ Tạo một bài trình chiếu mới.
+~ Sao chép slide hiện tại.
+~ Xóa slide hiện tại.
+= Thêm một slide mới vào bài trình chiếu.
+}
+Để áp dụng một màu nền Gradient (chuyển màu) cho slide, bạn chọn tùy chọn nào trong Format Background?
+{
+~ Solid fill
+~ Picture or texture fill
+~ Pattern fill
+= Gradient fill
+}
+Chức năng của "Merge Shapes" (Hợp nhất hình khối) là gì?
+{
+~ Nhóm các hình khối lại với nhau.
+~ Căn chỉnh các hình khối.
+~ Thay đổi màu cho nhiều hình khối cùng lúc.
+= Kết hợp nhiều hình khối lại với nhau để tạo ra một hình dạng mới (ví dụ: hợp nhất, cắt bỏ phần giao nhau).
+}
+Bạn có thể tìm thấy công cụ "Merge Shapes" ở đâu?
+{
+~ Thẻ Home -> Drawing
+~ Thẻ Insert -> Shapes
+~ Thẻ View -> Show
+= Thẻ Shape Format (sau khi chọn ít nhất hai hình khối)
+}
+Để thêm đầu trang (Header) và chân trang (Footer) vào bài trình chiếu, bạn vào thẻ nào?
+{
+~ Home
+~ Design
+~ View
+= Insert
+}
+Làm thế nào để một video tự động phát ngay khi slide chứa nó xuất hiện?
+{
+~ Trong thẻ Playback, chọn "On Click".
+~ Trong thẻ Animations, áp dụng hiệu ứng "Fly In".
+~ Trong thẻ Transitions, chọn "After 00:00".
+= Trong thẻ Playback, ở mục Start, chọn "Automatically".
+}
+Để cắt bớt một đoạn đầu hoặc cuối của video đã chèn, bạn dùng công cụ nào trong thẻ Playback?
+{
+~ Crop
+~ Fade In/Out
+~ Volume
+= Trim Video
+}
+Khi lưu tệp, việc chọn "Embed fonts in the file" có lợi ích gì?
+{
+~ Làm giảm dung lượng tệp.
+~ Ngăn người khác chỉnh sửa tệp.
+~ Thêm hiệu ứng cho chữ.
+= Đảm bảo bài trình chiếu hiển thị đúng phông chữ trên máy tính khác dù máy đó không cài đặt phông chữ bạn đã dùng.
+}
+Chức năng "Compress Pictures" (Nén ảnh) có tác dụng gì?
+{
+~ Tăng chất lượng ảnh.
+~ Thay đổi định dạng ảnh.
+~ Cắt xén ảnh.
+= Giảm độ phân giải của hình ảnh để làm giảm dung lượng của tệp trình chiếu.
+}
+Để thay đổi tất cả các từ "HN" thành "Hà Nội" trong toàn bộ bài trình chiếu, bạn dùng công cụ nào?
+{
+~ Find
+~ Spelling
+~ Thesaurus
+= Replace
+}
+Bạn có thể tìm thấy công cụ "Replace" trong thẻ nào?
+{
+~ Review
+~ View
+~ Insert
+= Home
+}
+Tổ hợp phím tắt để mở công cụ "Replace" là gì?
+{
+~ Ctrl + F
+~ Ctrl + R
+~ Ctrl + G
+= Ctrl + H
+}
+Trong chế độ Slide Show, nhấn phím 'W' sẽ có tác dụng gì?
+{
+~ Đi đến slide cuối cùng.
+~ Mở trang web.
+~ Chuyển sang chế độ bút.
+= Hiển thị một màn hình trắng.
+}
+Trong chế độ Slide Show, nhấn phím 'B' sẽ có tác dụng gì?
+{
+~ Quay lại slide trước.
+~ Mở trình duyệt.
+~ In bài trình chiếu.
+= Hiển thị một màn hình đen.
+}
+Để vẽ hoặc ghi chú trực tiếp lên slide khi đang trình chiếu, bạn làm gì?
+{
+~ Nhấn phím 'E' để xóa.
+~ Nhấn phím 'P'.
+~ Nhấn chuột phải và chọn "Notes".
+= Nhấn Ctrl + P hoặc di chuột đến góc dưới bên trái và chọn biểu tượng cây bút.
+}
+Làm cách nào để xóa các nét vẽ bạn vừa tạo trong khi đang trình chiếu?
+{
+~ Nhấn phím Delete.
+~ Nhấn chuột phải và chọn "Erase".
+~ Nhấn Ctrl + Z.
+= Nhấn phím 'E'.
+}
+Để chuyển nhanh đến một slide cụ thể trong khi đang trình chiếu, bạn làm gì?
+{
+~ Nhấn phím mũi tên liên tục.
+~ Thoát ra và chọn lại slide.
+~ Nhấn chuột phải và chọn "Go to Slide".
+= Gõ số thứ tự của slide đó rồi nhấn Enter.
+}
+Chức năng nào cho phép bạn tạo một bài trình chiếu tùy chỉnh chỉ chứa một số slide được chọn từ bài trình chiếu gốc?
+{
+~ Hide Slide
+~ Sections
+~ Rehearse Timings
+= Custom Slide Show
+}
+Bạn có thể tìm thấy "Custom Slide Show" ở đâu?
+{
+~ Thẻ View
+~ Thẻ Transitions
+~ Thẻ Animations
+= Thẻ Slide Show
+}
+Đâu là một nguyên tắc tốt khi thiết kế slide trình chiếu?
+{
+~ Sử dụng nhiều phông chữ khác nhau trên một slide.
+~ Chèn thật nhiều hình ảnh và hiệu ứng để gây ấn tượng.
+~ Viết các câu văn dài và đầy đủ thông tin vào slide.
+= Giữ cho nội dung mỗi slide ngắn gọn, súc tích và sử dụng hình ảnh để minh họa.
+}
+Mục đích chính của nền slide (background) là gì?
+{
+~ Làm cho slide trông phức tạp hơn.
+~ Gây mất tập trung cho khán giả.
+~ Chứa toàn bộ nội dung văn bản.
+= Tăng tính thẩm mỹ và làm nổi bật nội dung chính của slide.
+}
+Khi chọn màu chữ và màu nền, quy tắc tương phản có nghĩa là gì?
+{
+~ Chọn màu chữ và màu nền giống hệt nhau.
+~ Chọn các màu gần giống nhau trên vòng tròn màu.
+~ Sử dụng màu gradient cho cả chữ và nền.
+= Chọn màu chữ và màu nền có sự khác biệt rõ rệt để dễ đọc (ví dụ: chữ đen trên nền trắng).
+}
+ 
+SỬ DỤNG INTERNET CƠ BẢN
+Cookie trong trình duyệt web là gì?
+{
+~ Một loại virus
+~ Một chương trình quảng cáo
+~ Một bản cập nhật phần mềm
+= Một tệp nhỏ mà trang web lưu trên máy tính của bạn để ghi nhớ thông tin
+}
+Chế độ duyệt web ẩn danh (Incognito/Private Mode) có tác dụng gì?
+{
+~ Che giấu địa chỉ IP của bạn
+~ Ngăn chặn tất cả các quảng cáo
+~ Mã hóa tất cả dữ liệu bạn gửi đi
+= Không lưu lại lịch sử duyệt web, cookie và dữ liệu trang web trên thiết bị
+}
+Để xóa bộ nhớ cache (cache) của trình duyệt, bạn cần vào đâu?
+{
+~ Quản lý bookmark
+~ Danh sách tiện ích mở rộng
+~ Lịch sử tải về
+= Cài đặt hoặc Tùy chọn của trình duyệt
+}
+World Wide Web (WWW) và Internet có phải là một không?
+{
+~ Có, chúng hoàn toàn giống nhau
+~ WWW là phiên bản cũ của Internet
+~ Internet là một phần của WWW
+= Không, WWW là một dịch vụ hoạt động trên nền tảng Internet
+}
+Giao thức nào được sử dụng để gửi email?
+{
+~ HTTP
+~ FTP
+~ TELNET
+= SMTP (Simple Mail Transfer Protocol)
+}
+Giao thức nào thường được sử dụng để tải tệp tin từ một máy chủ Internet?
+{
+~ SMTP
+~ POP3
+~ HTTP
+= FTP (File Transfer Protocol)
+}
+Trong email, "Bcc" là viết tắt của cụm từ gì và có ý nghĩa gì?
+{
+~ Before Carbon Copy - Người nhận sẽ thấy thư trước
+~ Best Carbon Copy - Bản sao tốt nhất
+~ Backup Carbon Copy - Bản sao lưu
+= Blind Carbon Copy - Người nhận trong danh sách này sẽ không thấy địa chỉ của nhau
+}
+Làm thế nào để nhận biết một liên kết (link) là đáng ngờ?
+{
+~ Liên kết được gửi từ một địa chỉ email quen thuộc
+~ Liên kết có tên miền ".com"
+~ Liên kết được rút gọn
+= Di chuột qua liên kết và thấy địa chỉ thực sự khác với văn bản hiển thị
+}
+Dịch vụ lưu trữ đám mây là gì?
+{
+~ Một ổ cứng vật lý gắn ngoài
+~ Một bộ nhớ RAM của máy tính
+~ Một thiết bị lưu trữ trong mạng nội bộ
+= Một dịch vụ cho phép lưu trữ dữ liệu trên các máy chủ từ xa và truy cập qua Internet
+}
+Đâu là một ví dụ về dịch vụ lưu trữ đám mây?
+{
+~ WinRAR
+~ Adobe Photoshop
+~ VLC Media Player
+= Google Drive
+}
+Trò chuyện trực tuyến (Chat) là hình thức giao tiếp...
+{
+~ Bất đồng bộ (Asynchronous)
+~ Chỉ bằng văn bản
+~ Chỉ qua video
+= Đồng bộ (Synchronous) hoặc gần như đồng bộ
+}
+VoIP là viết tắt của công nghệ gì?
+{
+~ Video over Internet Protocol
+~ Voice on Internet Protocol
+~ Voice over Internet Process
+= Voice over Internet Protocol
+}
+Khi bạn tải lên (upload) một tệp, bạn đang làm gì?
+{
+~ Sao chép dữ liệu từ Internet về máy tính của bạn
+~ Xóa dữ liệu trên máy tính của bạn
+~ In một tài liệu từ máy tính của bạn
+= Gửi dữ liệu từ máy tính của bạn đến một hệ thống khác trên Internet
+}
+Khi bạn tải xuống (download) một tệp, bạn đang làm gì?
+{
+~ Gửi email cho một người bạn
+~ Tạo một thư mục mới trên máy tính
+~ Chỉnh sửa một bức ảnh
+= Sao chép dữ liệu từ Internet về máy tính của bạn
+}
+Một trang "404 Not Found" có nghĩa là gì?
+{
+~ Máy chủ đang bảo trì
+~ Bạn đã nhập sai mật khẩu
+~ Kết nối Internet của bạn bị lỗi
+= Máy chủ không thể tìm thấy trang web bạn yêu cầu
+}
+"Trang chủ" (Homepage) của một trang web là gì?
+{
+~ Trang cuối cùng bạn truy cập
+~ Trang có nhiều quảng cáo nhất
+~ Trang liên hệ của trang web
+= Trang đầu tiên hoặc trang chính của một trang web
+}
+Thanh trạng thái (Status Bar) của trình duyệt thường hiển thị thông tin gì?
+{
+~ Tên của trình duyệt
+~ Các tab đang mở
+~ Địa chỉ IP của bạn
+= Trạng thái tải của trang, địa chỉ của liên kết khi di chuột qua
+}
+Tổ hợp phím Ctrl + T trong hầu hết các trình duyệt web dùng để làm gì?
+{
+~ Đóng tab hiện tại
+~ Tải lại trang
+~ Mở cửa sổ mới
+= Mở một tab mới
+}
+Tổ hợp phím Ctrl + F trong trình duyệt web dùng để làm gì?
+{
+~ Thêm vào mục yêu thích
+~ In trang hiện tại
+~ Mở lịch sử duyệt web
+= Mở hộp thoại tìm kiếm văn bản trên trang hiện tại
+}
+RSS feed là gì?
+{
+~ Một loại phần mềm quảng cáo
+~ Một tiêu chuẩn bảo mật web
+~ Một ngôn ngữ lập trình
+= Một định dạng để cung cấp cho người dùng nội dung được cập nhật thường xuyên từ một trang web
+}
+Hacker là gì?
+{
+~ Người thiết kế giao diện trang web
+~ Người quản trị hệ thống mạng
+~ Người viết nội dung cho blog
+= Người cố gắng xâm nhập vào hệ thống máy tính một cách trái phép
+}
+Để tránh bị theo dõi khi lướt web, bạn có thể sử dụng công cụ nào?
+{
+~ Tường lửa
+~ Phần mềm diệt virus
+~ Chế độ toàn màn hình
+= Mạng riêng ảo (VPN)
+}
+Thương mại điện tử (E-commerce) là gì?
+{
+~ Việc trao đổi email thương mại
+~ Quảng cáo sản phẩm qua mạng xã hội
+~ Học trực tuyến qua Internet
+= Việc mua bán hàng hóa và dịch vụ thông qua Internet
+}
+Khi mua sắm trực tuyến, biểu tượng nào cho thấy trang thanh toán là an toàn?
+{
+~ Biểu tượng giỏ hàng
+~ Biểu tượng Wi-Fi
+~ Biểu tượng ngôi nhà
+= Biểu tượng ổ khóa trên thanh địa chỉ
+}
+POP3 và IMAP là các giao thức liên quan đến dịch vụ nào?
+{
+~ Truyền tệp tin
+~ Trò chuyện trực tuyến
+~ Duyệt web
+= Nhận email
+}
+Điều gì xảy ra khi bạn xóa cookie của trình duyệt?
+{
+~ Máy tính của bạn sẽ chạy nhanh hơn
+~ Bạn sẽ được bảo vệ khỏi virus
+~ Mật khẩu đã lưu của bạn sẽ bị mất
+= Các trang web có thể sẽ quên các tùy chọn bạn đã đặt và bạn cần đăng nhập lại
+}
+Đâu là một rủi ro của việc sử dụng mạng xã hội?
+{
+~ Kết nối với bạn bè cũ
+~ Học hỏi thêm nhiều kiến thức mới
+~ Tham gia vào các cộng đồng cùng sở thích
+= Bị lộ thông tin cá nhân hoặc bị bắt nạt trên mạng
+}
+"Cyberbullying" (Bắt nạt trên mạng) là gì?
+{
+~ Gửi thư rác cho nhiều người
+~ Cố gắng đoán mật khẩu của người khác
+~ Viết một bài đánh giá tiêu cực về một sản phẩm
+= Sử dụng công nghệ để đe dọa, làm bẽ mặt hoặc quấy rối người khác
+}
+Để tìm kiếm hình ảnh trên Google, bạn nên chọn tab nào?
+{
+~ Tin tức (News)
+~ Mua sắm (Shopping)
+~ Bản đồ (Maps)
+= Hình ảnh (Images)
+}
+Bộ định tuyến (Router) là thiết bị dùng để làm gì?
+{
+~ Tạo ra tín hiệu Wi-Fi từ kết nối có dây
+~ Chỉ khuếch đại tín hiệu Wi-Fi yếu
+~ Quét virus cho các thiết bị kết nối
+= Chuyển tiếp các gói dữ liệu giữa các mạng máy tính
+}
+Địa chỉ IP là gì?
+{
+~ Địa chỉ nhà của bạn
+~ Địa chỉ email của bạn
+~ Một mật khẩu để truy cập Internet
+= Một địa chỉ số duy nhất xác định một thiết bị trên mạng
+}
+Tên miền (Domain Name) dùng để làm gì?
+{
+~ Để lưu trữ các tệp tin
+~ Để gửi email
+~ Để mã hóa dữ liệu
+= Để thay thế cho địa chỉ IP khó nhớ bằng một cái tên dễ nhớ hơn
+}
+Trình cắm (Plugin) hoặc Tiện ích mở rộng (Extension) trong trình duyệt là gì?
+{
+~ Một trang web được tích hợp sẵn
+~ Một phần của hệ điều hành
+~ Một loại quảng cáo
+= Một chương trình nhỏ bổ sung thêm tính năng cho trình duyệt
+}
+HTML là viết tắt của cụm từ nào?
+{
+~ Hyper Tool Markup Language
+~ High Tech Modern Language
+~ Home Text Markup Language
+= HyperText Markup Language
+}
+Ngôn ngữ nào là nền tảng để xây dựng cấu trúc của một trang web?
+{
+~ CSS
+~ JavaScript
+~ Python
+= HTML
+}
+CSS (Cascading Style Sheets) được sử dụng để làm gì trong thiết kế web?
+{
+~ Xử lý logic và tương tác của trang web
+~ Quản lý cơ sở dữ liệu
+~ Định nghĩa cấu trúc nội dung
+= Định dạng và tạo kiểu cho giao diện của trang web
+}
+JavaScript được sử dụng để làm gì trong thiết kế web?
+{
+~ Lưu trữ thông tin người dùng
+~ Định dạng văn bản và màu sắc
+~ Tạo cấu trúc cho trang web
+= Tạo ra các hiệu ứng động và tương tác trên trang web
+}
+Một siêu liên kết (Hyperlink) thường có dạng gì?
+{
+~ Một hình ảnh không thể nhấp vào
+~ Một đoạn văn bản in đậm
+~ Tiêu đề của trang web
+= Một đoạn văn bản hoặc hình ảnh có thể nhấp vào để chuyển đến một trang khác
+}
+Trình duyệt web đầu tiên có tên là gì?
+{
+~ Internet Explorer
+~ Netscape Navigator
+~ Mosaic
+= WorldWideWeb
+}
+Ai được coi là người phát minh ra World Wide Web?
+{
+~ Bill Gates
+~ Steve Jobs
+~ Vint Cerf
+= Tim Berners-Lee
+}
+"Trình duyệt theo thẻ" (Tabbed Browse) cho phép bạn làm gì?
+{
+~ Mở nhiều cửa sổ trình duyệt khác nhau
+~ Sắp xếp các bookmark của bạn
+~ Thay đổi giao diện của trình duyệt
+= Mở nhiều trang web trong cùng một cửa sổ trình duyệt
+}
+Trong một công cụ tìm kiếm, toán tử "-" (dấu trừ) trước một từ khóa có tác dụng gì?
+{
+~ Bắt buộc từ khóa đó phải có trong kết quả
+~ Tìm kiếm các từ đồng nghĩa
+~ Không có tác dụng gì
+= Loại bỏ các trang chứa từ khóa đó khỏi kết quả tìm kiếm
+}
+Để tìm kiếm thông tin chỉ trong một trang web cụ thể, bạn có thể sử dụng cú pháp nào?
+{
+~ search:example.com "từ khóa"
+~ url:example.com "từ khóa"
+~ inurl: "từ khóa" site:example.com
+= site:example.com "từ khóa"
+}
+"Deep Web" (Web chìm) là gì?
+{
+~ Một phần của web chỉ dành cho hacker
+~ Một tên gọi khác của Dark Web
+~ Các trang web độc hại
+= Phần của World Wide Web không được các công cụ tìm kiếm thông thường lập chỉ mục
+}
+"Dark Web" là gì?
+{
+~ Bất kỳ trang web nào có nền tối
+~ Một mạng lưới các trang web bí mật của chính phủ
+~ Một diễn đàn dành cho các lập trình viên
+= Một phần nhỏ của Deep Web chỉ có thể truy cập bằng phần mềm đặc biệt (ví dụ: Tor)
+}
+Xác thực hai yếu tố (2FA) là gì?
+{
+~ Yêu cầu hai mật khẩu khác nhau
+~ Đăng nhập từ hai thiết bị khác nhau
+~ Một phương pháp mã hóa
+= Một lớp bảo mật bổ sung yêu cầu bạn cung cấp hai hình thức nhận dạng khác nhau
+}
+Nếu nhận được một email nghi ngờ là lừa đảo, bạn nên làm gì?
+{
+~ Trả lời và yêu cầu giải thích
+~ Nhấp vào liên kết để xem nó dẫn đến đâu
+~ Chuyển tiếp cho bạn bè để cảnh báo
+= Không nhấp vào bất kỳ liên kết nào và xóa email đó
+}
+Đâu là một dịch vụ email miễn phí phổ biến?
+{
+~ Microsoft Office
+~ Adobe Reader
+~ WinZip
+= Gmail
+}
+Khi đính kèm tệp vào email, cần lưu ý điều gì?
+{
+~ Có thể đính kèm không giới hạn số lượng tệp
+~ Chỉ có thể đính kèm hình ảnh
+~ Tệp đính kèm sẽ tự động được mã hóa
+= Có giới hạn về kích thước tối đa của tệp đính kèm
+}
+Chữ ký email (Email Signature) là gì?
+{
+~ Mật khẩu email của bạn
+~ Hình ảnh đại diện của bạn
+~ Một bản quét chữ ký tay của bạn
+= Một khối văn bản được tự động thêm vào cuối mỗi email bạn gửi
+}
+Khi nào bạn nên sử dụng trường "Bcc" trong email?
+{
+~ Khi gửi thư cho cấp trên
+~ Khi gửi một thông báo quan trọng
+~ Khi muốn tất cả mọi người biết ai đã nhận được thư
+= Khi gửi thư cho một danh sách lớn người nhận và muốn bảo vệ quyền riêng tư của họ
+}
+"Auto-reply" (Trả lời tự động) trong email thường được sử dụng khi nào?
+{
+~ Khi bạn muốn chặn một người gửi
+~ Khi bạn muốn chuyển tiếp thư
+~ Khi bạn gửi một thư quan trọng
+= Khi bạn không có mặt tại văn phòng hoặc đi nghỉ mát
+}
+Lịch sử duyệt web (Browser History) là gì?
+{
+~ Danh sách các tệp bạn đã tải xuống
+~ Danh sách các mật khẩu bạn đã lưu
+~ Danh sách các trang bạn đã đánh dấu
+= Danh sách các trang web bạn đã truy cập
+}
+ISP là viết tắt của cụm từ tiếng Anh nào?
+{
+~ Internal Service Provider
+~ International Software Protocol
+~ Internet System Protocol
+= Internet Service Provider
+}
+Trong trình duyệt Chrome, để mở lại tab vừa đóng, bạn sử dụng tổ hợp phím nào?
+{
+~ Ctrl + T
+~ Ctrl + W
+~ Ctrl + N
+= Ctrl + Shift + T
+}
+Để xem mã nguồn HTML của một trang web, bạn thường làm gì?
+{
+~ Nhấn F1
+~ Nhấn Ctrl + P
+~ Vào menu Cài đặt
+= Nhấp chuột phải và chọn "Xem nguồn trang" (View Page Source)
+}
+Modem là thiết bị có chức năng gì?
+{
+~ Tạo mạng không dây
+~ Chia sẻ kết nối Internet cho nhiều thiết bị
+~ Bảo vệ mạng khỏi virus
+= Chuyển đổi tín hiệu số từ máy tính thành tín hiệu tương tự để truyền qua đường dây điện thoại và ngược lại
+}
+Blog là gì?
+{
+~ Một loại cửa hàng trực tuyến
+~ Một phần mềm trò chuyện
+~ Một trò chơi trên mạng
+= Một trang web hoặc nhật ký trực tuyến nơi một cá nhân hoặc nhóm ghi lại các ý kiến, thông tin
+}
+Podcast là gì?
+{
+~ Một video phát trực tiếp
+~ Một loại mạng xã hội
+~ Một bài viết trên blog
+= Một chương trình âm thanh kỹ thuật số dạng tập có thể tải xuống để nghe
+}
+Wiki là gì?
+{
+~ Một công cụ tìm kiếm
+~ Một diễn đàn trực tuyến
+~ Một dịch vụ email
+= Một trang web cho phép người dùng cộng tác tạo và chỉnh sửa nội dung
+}
+Đâu là ví dụ nổi tiếng nhất về một trang wiki?
+{
+~ Facebook
+~ Google
+~ Amazon
+= Wikipedia
+}
+"Bản quyền" (Copyright) trên Internet có nghĩa là gì?
+{
+~ Bạn có thể sao chép và sử dụng mọi thứ bạn tìm thấy
+~ Tất cả thông tin đều miễn phí
+~ Tác giả đã từ bỏ quyền đối với tác phẩm
+= Các tác phẩm gốc như bài viết, hình ảnh, âm nhạc được pháp luật bảo vệ và không thể sử dụng tự do nếu không có phép
+}
+Giấy phép Creative Commons là gì?
+{
+~ Một loại phần mềm diệt virus
+~ Một tiêu chuẩn mã hóa
+~ Một nhà cung cấp dịch vụ Internet
+= Một bộ giấy phép bản quyền cho phép người khác sử dụng tác phẩm của bạn một cách linh hoạt hơn
+}
+"Digital Footprint" (Dấu chân kỹ thuật số) là gì?
+{
+~ Số lượng thiết bị kỹ thuật số bạn sở hữu
+~ Kích thước của các tệp bạn tải xuống
+~ Tốc độ kết nối Internet của bạn
+= Dấu vết dữ liệu bạn để lại khi sử dụng Internet
+}
+Làm thế nào để giảm thiểu dấu chân kỹ thuật số của bạn?
+{
+~ Đăng nhập vào tất cả các dịch vụ bằng tài khoản mạng xã hội
+~ Luôn bật dịch vụ định vị
+~ Chia sẻ mọi hoạt động lên mạng
+= Suy nghĩ kỹ trước khi đăng và chia sẻ thông tin, thường xuyên kiểm tra cài đặt quyền riêng tư
+}
+Trong email, thư mục "Sent" hoặc "Sent Mail" chứa gì?
+{
+~ Các thư nhận được
+~ Các thư đã xóa
+~ Các thư nháp
+= Các thư bạn đã gửi đi
+}
+Trong email, thư mục "Drafts" chứa gì?
+{
+~ Các thư đến từ người lạ
+~ Các thư đã được trả lời
+~ Các thư rác
+= Các thư bạn đã soạn nhưng chưa gửi
+}
+Trong email, thư mục "Trash" hoặc "Deleted Items" chứa gì?
+{
+~ Các thư quan trọng được đánh dấu
+~ Các thư đã gửi thành công
+~ Các thư chưa đọc
+= Các thư bạn đã xóa
+}
+Tổ hợp phím Ctrl + R hoặc phím F5 trong trình duyệt có chức năng gì?
+{
+~ Đóng trang web
+~ Mở trang chủ
+~ In trang web
+= Tải lại hoặc làm mới trang web hiện tại
+}
+Mạng ngang hàng (P2P - Peer-to-Peer) là gì?
+{
+~ Mạng do một máy chủ trung tâm điều khiển
+~ Một loại mạng xã hội
+~ Mạng kết nối các thiết bị của chính phủ
+= Mạng máy tính trong đó các máy tính kết nối và chia sẻ tài nguyên trực tiếp với nhau
+}
+Dịch vụ "Streaming" (Phát trực tuyến) là gì?
+{
+~ Tải một tệp về máy trước khi xem
+~ Một phương pháp nén tệp
+~ Gửi một tệp lớn qua email
+= Một phương pháp truyền tải dữ liệu đa phương tiện liên tục cho phép người dùng xem hoặc nghe ngay lập tức
+}
+Một URL bắt đầu bằng "ftp://" chỉ ra điều gì?
+{
+~ Đó là một trang web an toàn
+~ Đó là một trang web đa phương tiện
+~ Đó là một trang web tin tức
+= Đó là một máy chủ FTP để trao đổi tệp tin
+}
+Khi một trang web yêu cầu "chấp nhận cookie", điều đó có nghĩa là gì?
+{
+~ Bạn đồng ý nhận email quảng cáo
+~ Bạn đồng ý cài đặt một phần mềm
+~ Bạn đồng ý chia sẻ mật khẩu của mình
+= Bạn cho phép trang web lưu trữ một tệp nhỏ trên máy tính của bạn
+}
+Phần nào của URL "https://www.google.com.vn/search" cho biết tên miền cấp cao nhất (Top-Level Domain)?
+{
+~ https
+~ www
+~ google
+= vn
+}
+Trong URL "https://www.example.com/products?id=123", phần "products?id=123" được gọi là gì?
+{
+~ Giao thức
+~ Tên miền phụ
+~ Tên miền
+= Đường dẫn và chuỗi truy vấn
+}
+Wi-Fi là công nghệ cho phép...
+{
+~ Tăng bộ nhớ máy tính
+~ In tài liệu từ xa
+~ Sạc pin không dây
+= Kết nối mạng không dây
+}
+Để bảo mật mạng Wi-Fi gia đình, bạn nên làm gì?
+{
+~ Không đặt mật khẩu để dễ truy cập
+~ Sử dụng tên mạng mặc định
+~ Chia sẻ mật khẩu cho hàng xóm
+= Đặt mật khẩu mạnh và sử dụng chuẩn mã hóa WPA2 hoặc WPA3
+}
+"Cloud computing" (Điện toán đám mây) là gì?
+{
+~ Sử dụng máy tính khi trời nhiều mây
+~ Một mô hình dự báo thời tiết
+~ Một kỹ thuật để tăng tốc máy tính
+= Việc cung cấp các tài nguyên điện toán (như máy chủ, lưu trữ, phần mềm) qua Internet
+}
+Đâu không phải là một lợi ích của điện toán đám mây?
+{
+~ Khả năng truy cập dữ liệu từ mọi nơi
+~ Chi phí ban đầu thấp hơn
+~ Khả năng mở rộng linh hoạt
+= Yêu cầu phải luôn kết nối Internet để làm việc
+}
+Khi bạn "gắn thẻ" (tag) ai đó trên mạng xã hội, điều đó có nghĩa là gì?
+{
+~ Bạn đang chặn người đó
+~ Bạn đang báo cáo người đó
+~ Bạn đang gửi một tin nhắn riêng tư
+= Bạn đang liên kết hồ sơ của họ với một bài đăng hoặc ảnh
+}
+Trình quản lý mật khẩu là một công cụ dùng để làm gì?
+{
+~ Tạo ra các mật khẩu yếu
+~ Chia sẻ mật khẩu của bạn công khai
+~ Ghi nhớ chỉ một mật khẩu duy nhất
+= Lưu trữ và quản lý an toàn tất cả các mật khẩu của bạn
+}
+Cửa sổ bật lên (Pop-up) trong trình duyệt là gì?
+{
+~ Một tính năng bảo mật
+~ Một thông báo lỗi
+~ Cửa sổ cài đặt trình duyệt
+= Một cửa sổ trình duyệt nhỏ mới thường xuất hiện để hiển thị quảng cáo
+}
+Làm thế nào để xử lý các cửa sổ pop-up không mong muốn?
+{
+~ Nhấp vào tất cả các nút trong cửa sổ đó
+~ Cung cấp thông tin cá nhân nếu được yêu cầu
+~ Tải về bất kỳ phần mềm nào nó đề nghị
+= Sử dụng trình chặn pop-up của trình duyệt hoặc đóng chúng một cách cẩn thận
+}
+"Clickbait" là gì?
+{
+~ Một loại chuột máy tính
+~ Một kỹ thuật lập trình
+~ Một nút bấm trên trang web
+= Một tiêu đề hoặc hình ảnh giật gân, gây tò mò để thu hút người dùng nhấp vào một liên kết
+}
+Làm thế nào để nhận ra tin tức giả (fake news)?
+{
+~ Tin tức được nhiều người chia sẻ
+~ Tin tức có tiêu đề gây sốc
+~ Tin tức đến từ một trang web lạ
+= Kiểm tra nguồn tin, tìm các lỗi chính tả, văn phong phiến diện và xác minh thông tin từ các nguồn uy tín khác
+}
+Giao thức DNS (Domain Name System) có vai trò gì?
+{
+~ Gửi và nhận email
+~ Truyền tải các trang web
+~ Mã hóa kết nối
+= Dịch địa chỉ tên miền (ví dụ: https://www.google.com/search?q=google.com) sang địa chỉ IP (ví dụ: 172.217.167.78)
+}
+Nếu trình duyệt báo lỗi "DNS server isn't responding", vấn đề có thể là gì?
+{
+~ Bàn phím của bạn bị hỏng
+~ Màn hình của bạn bị lỗi
+~ Trang web bạn truy cập đã bị xóa
+= Trình duyệt không thể kết nối với máy chủ để dịch tên miền thành địa chỉ IP
+}
+"CAPTCHA" là một bài kiểm tra được thiết kế để làm gì?
+{
+~ Kiểm tra tốc độ đánh máy của bạn
+~ Kiểm tra kiến thức của bạn
+~ Kiểm tra tốc độ mạng của bạn
+= Phân biệt người dùng là người thật hay là chương trình máy tính (bot)
+}
+Trong giao dịch trực tuyến, mã CVV/CVC của thẻ tín dụng là gì?
+{
+~ Mã PIN của bạn
+~ Ngày hết hạn của thẻ
+~ 16 số ở mặt trước thẻ
+= Mã bảo mật gồm 3 hoặc 4 chữ số thường ở mặt sau của thẻ
+}
+Để xóa một trang đã đánh dấu (bookmark), bạn cần làm gì?
+{
+~ Xóa lịch sử duyệt web
+~ Xóa cookie
+~ Cài đặt lại trình duyệt
+= Mở trình quản lý bookmark và xóa mục tương ứng
+}
+"Webinar" là gì?
+{
+~ Một loại virus mới
+~ Một bộ phim tài liệu về Internet
+~ Một trò chơi trực tuyến nhiều người chơi
+= Một buổi hội thảo hoặc thuyết trình được tiến hành trực tuyến
+}
+Đâu là một ví dụ về ứng dụng nhắn tin tức thời (Instant Messaging)?
+{
+~ Gmail
+~ Dropbox
+~ Spotify
+= Zalo
+}
+Khi bạn nhận được một lời mời kết bạn từ người lạ trên mạng xã hội, lựa chọn an toàn nhất là gì?
+{
+~ Chấp nhận ngay lập tức
+~ Nhắn tin hỏi họ là ai
+~ Vào trang cá nhân của họ để xem thông tin
+= Bỏ qua hoặc xóa lời mời nếu bạn không biết người đó
+}
+Đâu là một định dạng tệp hình ảnh phổ biến trên web?
+{
+~ .DOCX
+~ .MP3
+~ .AVI
+= .JPG
+}
+Đâu là một định dạng tệp âm thanh phổ biến trên web?
+{
+~ .PNG
+~ .PDF
+~ .MOV
+= .MP3
+}
+Đâu là một định dạng tệp video phổ biến trên web?
+{
+~ .GIF
+~ .TXT
+~ .WAV
+= .MP4
+}
+Nếu kết nối Internet của bạn đột nhiên chậm lại, bước khắc phục sự cố đầu tiên nên là gì?
+{
+~ Mua một máy tính mới
+~ Cài đặt lại hệ điều hành
+~ Gọi ngay cho nhà cung cấp dịch vụ
+= Khởi động lại bộ định tuyến (router) và modem
+}
+"Add-on" trong trình duyệt Firefox tương đương với khái niệm nào trong Chrome?
+{
+~ Plugin
+~ Theme
+~ App
+= Extension (Tiện ích mở rộng)
+}
+Mục đích chính của việc sao lưu dữ liệu là gì?
+{
+~ Để giải phóng dung lượng lưu trữ
+~ Để chia sẻ dữ liệu với người khác
+~ Để tăng tốc độ máy tính
+= Để có thể khôi phục lại dữ liệu trong trường hợp mất mát hoặc hư hỏng
+}
+Trang web nào sau đây có tên miền cấp cao nhất dành cho tổ chức?
+{
+~ https://example.edu
+~ https://example.com
+~ https://example.net
+= https://example.org
+}
+Tên miền ".edu" thường được sử dụng cho các tổ chức thuộc lĩnh vực nào?
+{
+~ Thương mại
+~ Quân sự
+~ Chính phủ
+= Giáo dục
+}
+Để đảm bảo an toàn khi không sử dụng máy tính, bạn nên làm gì?
+{
+~ Để nguyên màn hình đang làm việc
+~ Tắt màn hình
+~ Rút dây mạng
+= Đăng xuất (Log out) hoặc khóa (Lock) máy tính
+}
+Phần mềm mã nguồn mở (Open Source Software) là gì?
+{
+~ Phần mềm luôn miễn phí
+~ Phần mềm chỉ chạy trên hệ điều hành Linux
+~ Phần mềm không có bản quyền
+= Phần mềm có mã nguồn được công khai để mọi người có thể xem, sửa đổi và phân phối
+}
+Mozilla Firefox là một ví dụ về...
+{
+~ Phần mềm độc quyền
+~ Hệ điều hành
+~ Một mạng xã hội
+= Trình duyệt web mã nguồn mở
+}
+Khi điền thông tin vào một biểu mẫu (form) trên web, những trường có dấu sao (*) thường có ý nghĩa gì?
+{
+~ Thông tin không quan trọng
+~ Thông tin tùy chọn, có thể bỏ qua
+~ Thông tin chỉ dành cho quản trị viên
+= Thông tin bắt buộc phải nhập
+}
+"E-learning" (Học tập điện tử) là gì?
+{
+~ Học về cách sửa chữa đồ điện tử
+~ Đọc sách điện tử
+~ Tham gia một webinar
+= Việc học tập được phân phối hoặc hỗ trợ thông qua các phương tiện điện tử, đặc biệt là Internet
+}
+Trình duyệt web lưu trữ các hình ảnh và tệp từ các trang web bạn đã truy cập để tải chúng nhanh hơn trong lần truy cập sau. Khu vực lưu trữ này được gọi là gì?
+{
+~ Inbox
+~ Bookmark
+~ History
+= Cache
+}
+Tên của mạng máy tính tiền thân của Internet là gì?
+{
+~ NSFNET
+~ ETHERNET
+~ INTRANET
+= ARPANET
+}
+Để chọn nhiều tệp tin không liền kề nhau để đính kèm, bạn giữ phím nào trong khi nhấp chuột?
+{
+~ Shift
+~ Alt
+~ Tab
+= Ctrl
+}
+Diễn đàn (Forum) trực tuyến là nơi để làm gì?
+{
+~ Mua bán hàng hóa
+~ Xem phim trực tuyến
+~ Lưu trữ tệp tin cá nhân
+= Người dùng có cùng sở thích thảo luận và trao đổi thông tin
+}
+Khái niệm "Internet of Things" (IoT) đề cập đến điều gì?
+{
+~ Một phiên bản mới của Internet
+~ Một mạng lưới các máy tính lượng tử
+~ Một công ty công nghệ lớn
+= Mạng lưới các thiết bị vật lý được tích hợp cảm biến, phần mềm để kết nối và trao đổi dữ liệu qua Internet
+}
+Xác minh 2 bước thường sử dụng yếu tố thứ hai nào bên cạnh mật khẩu?
+{
+~ Một câu hỏi bí mật
+~ Địa chỉ IP của bạn
+~ Tên của trình duyệt
+= Một mã được gửi đến điện thoại của bạn
+}
+Khi sử dụng công cụ tìm kiếm, kết quả được đánh dấu là "Quảng cáo" (Ad) hoặc "Được tài trợ" (Sponsored) có nghĩa là gì?
+{
+~ Đây là kết quả tốt nhất
+~ Đây là kết quả được Google đề xuất
+~ Đây là kết quả mới nhất
+= Ai đó đã trả tiền để kết quả của họ được hiển thị ở vị trí nổi bật
+}

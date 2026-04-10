@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Dò đáp án trắc nghiệm</title>
+
+    <script src="https://unpkg.com/mammoth/mammoth.browser.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        h2 {
+            font-size: 80px;
+        }
+
+        input,
+        button {
+            padding: 20px 20px;
+            margin: 5px 0;
+            font-size: 60px;
+        }
+
+        .result {
+            background: white;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 8px;
+        }
+
+        .answer {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h2>🔍 Tool dò đáp án</h2>
+
+        <div style="position: relative;">
+            <input type="text" id="searchBox" placeholder="Nhập câu hỏi..." style="width:80%; padding-right:80px;">
+
+            <!-- nút X -->
+            <span id="clearBtn" onclick="clearSearch()" style="
+            position:absolute;
+            right:90px;
+            top:25%;
+            transform:translateY(-50%);
+            font-size:40px;
+            cursor:pointer;
+            display:none;
+          ">
+                ❌
+            </span>
+
+            <button onclick="search()" style="margin-top:10px;">Tìm</button>
+        </div>
+
+        <div id="results"></div>
+    </div>
+
+    <script>
+        let questions = [];
+
+        window.onload = async function () {
+            const response = await fetch("question.txt");
+            const text = await response.text();
+            processText(text);
+        };
+
+        // hiện / ẩn nút X
+        document.getElementById("searchBox").addEventListener("input", function () {
+            const clearBtn = document.getElementById("clearBtn");
+
+            if (this.value.trim() === "") {
+                clearBtn.style.display = "none";
+                document.getElementById("results").innerHTML = "";
+            } else {
+                clearBtn.style.display = "block";
+                search(); // tự tìm luôn
+            }
+        });
+
+        function clearSearch() {
+            document.getElementById("searchBox").value = "";
+            document.getElementById("results").innerHTML = "";
+            document.getElementById("clearBtn").style.display = "none";
+        }
+
+        // ===== TÁCH CÂU HỎI (FORMAT MỚI) =====
+        function processText(text) {
+            questions = [];
+
+            // tách theo dấu }
+            const blocks = text.split("}");
+
+            blocks.forEach(block => {
+                if (!block.trim()) return;
+
+                const parts = block.split("{");
+                if (parts.length < 2) return;
+
+                const questionText = parts[0].trim();
+                const answersBlock = parts[1];
+
+                // tìm đáp án có dấu =
+                const correctMatch = answersBlock.match(/=\s*(.+)/);
+                const correctAnswer = correctMatch ? correctMatch[1].trim() : "Không rõ";
+
+                questions.push({
+                    content: questionText,
+                    answer: correctAnswer
+                });
+            });
+        }
+
+        // ===== TÌM KIẾM =====
+        function search() {
+            const query = document.getElementById("searchBox").value.trim().toLowerCase();
+            const resultsDiv = document.getElementById("results");
+
+            resultsDiv.innerHTML = "";
+
+            if (query === "") return;
+
+            const filtered = questions.filter(q =>
+                q.content.toLowerCase().includes(query)
+            );
+
+            filtered.forEach(q => {
+                const div = document.createElement("div");
+                div.className = "result";
+
+                div.innerHTML = `
+          <div class="answer">Đáp án: ${q.answer}</div>
+          <div>${q.content}</div>
+        `;
+
+                resultsDiv.appendChild(div);
+            });
+
+            if (filtered.length === 0) {
+                resultsDiv.innerHTML = "❌ Không tìm thấy";
+            }
+        }
+    </script>
+
+</body>
+
+</html>
