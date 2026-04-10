@@ -50,7 +50,8 @@
         <h2>🔍 Tool dò đáp án</h2>
 
         <div style="position: relative;">
-            <input type="text" id="searchBox" placeholder="Nhập câu hỏi..." style="width:80%; padding-right:80px;">
+            <input type="text" id="searchBox" placeholder="Nhập câu hỏi..." style="width:80%; padding-right:80px;"
+                enterkeyhint="search">
 
             <!-- nút X -->
             <span id="clearBtn" onclick="clearSearch()" style="
@@ -125,6 +126,16 @@
                 });
             });
         }
+
+        document.getElementById("searchBox").addEventListener("keydown", function (e) {
+            if (e.key === "Enter") {
+                e.preventDefault(); // tránh reload trang
+                search();
+
+                // 👉 tắt bàn phím sau khi tìm
+                this.blur();
+            }
+        });
 
         // ===== TÌM KIẾM =====
         function search() {
